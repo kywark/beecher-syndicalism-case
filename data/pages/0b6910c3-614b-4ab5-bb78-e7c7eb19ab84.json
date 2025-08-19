@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "2. Analysis & Potential Annotation Routes",
+  "parent": "7a40aa7c-26e3-41b0-948c-a06936c109a0",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "2-analysis-and-potential-annotation-routes",
+  "created_at": "2025-08-19T03:03:21.241Z",
+  "created_by": "kywark",
+  "updated_at": "2025-08-19T03:03:21.241Z",
+  "updated_by": "kywark"
+}
