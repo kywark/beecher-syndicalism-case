@@ -1,5 +1,90 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 949,
+      "end_time": 951,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Explicit language"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Content Warning"
+        }
+      ],
+      "uuid": "10bc4c0f-cfff-4e80-a247-ba716958243d"
+    },
+    {
+      "start_time": 966,
+      "end_time": 967,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Racial Slur"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Content Warning"
+        }
+      ],
+      "uuid": "2c42dd1c-fe64-43af-b671-dde4c652f590"
+    },
+    {
+      "start_time": 989,
+      "end_time": 991,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Explicit language"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Content Warning"
+        }
+      ],
+      "uuid": "be039bf4-51a8-4be3-8ff5-5b66e46a9b74"
+    },
+    {
+      "start_time": 998,
+      "end_time": 1000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Explicit language"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Content Warning"
+        }
+      ],
+      "uuid": "440ea2c3-0b6f-41a8-b9ef-3496ebe04343"
+    }
+  ],
   "set": "Content Warnings",
   "event_id": "68a1d1ef-129a-4b8f-8d46-3ae32bf555da",
   "source_id": "e08a931d-b954-4041-a7d0-4fe058e10f9e"
