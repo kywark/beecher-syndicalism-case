@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-08-19T02:46:28.704Z",
+  "created_by": "kywark",
+  "title": "Lesson Clip",
+  "slug": "lesson-clip",
+  "updated_at": "2025-08-19T02:46:28.704Z",
+  "updated_by": "kywark",
+  "parent": "371fcbfd-57c3-4f42-ad46-3e3541f8d792",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "7a4e4b51-345d-4a50-ae75-fd2f5dcca34a"
+  }
+}
