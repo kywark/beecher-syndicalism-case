@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Extension Activity Using Hypothesis (Optional)",
+  "parent": "7a40aa7c-26e3-41b0-948c-a06936c109a0",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "extension-activity-using-hypothesis-optional",
+  "created_at": "2025-08-19T03:05:11.538Z",
+  "created_by": "kywark",
+  "updated_at": "2025-08-19T03:05:11.538Z",
+  "updated_by": "kywark"
+}
