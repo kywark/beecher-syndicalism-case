@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Sample Lesson Plan",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "sample-lesson-plan",
+  "created_at": "2025-08-19T02:58:46.233Z",
+  "created_by": "kywark",
+  "updated_at": "2025-08-19T02:58:46.233Z",
+  "updated_by": "kywark"
+}
