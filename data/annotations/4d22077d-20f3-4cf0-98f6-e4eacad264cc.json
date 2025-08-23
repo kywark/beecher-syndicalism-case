@@ -83,6 +83,22 @@
         }
       ],
       "uuid": "440ea2c3-0b6f-41a8-b9ef-3496ebe04343"
+    },
+    {
+      "start_time": 847,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clip used for lesson."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "92a49ef1-9624-469d-aeab-d122bad40f70"
     }
   ],
   "set": "Content Warnings",
