@@ -4,7 +4,120 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "N.B.: ",
+          "bold": true
+        },
+        {
+          "text": "Though this lesson is presented asynchronously, it’s important that students discuss with one another potential annotation routes. Thus, the instructor may choose to set aside class time for students to discuss and complete these final steps of the lesson, or create breakout rooms/virtual meeting links for group members to meet and work on annotations. If none of those options are available, students may also generate annotations independently in Google Sheets, then review other students’ annotations, comment about observations they had, and return to their own annotations and adapt them as necessary."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1. As a group, relisten to the clip and consider the following questions."
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Who do you think is speaking? Why might it be difficult to tell?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What can you tell about the setting?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "How would you describe what is happening here?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What is confusing or unclear?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What seems significant in this clip? What do you notice?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2. Decide on categories for annotation and begin generating annotations."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Use "
+        },
+        {
+          "text": "this template",
+          "link": "https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true"
+        },
+        {
+          "text": " to create annotations collaboratively with your group members. Aim to create at least 5 annotations, with at least 1 transcription and 1 descriptive annotation (the rest of the annotation types are up to the group)."
         }
       ]
     }
@@ -18,6 +131,6 @@
   "slug": "3-further-analysis-and-annotation-in-groups",
   "created_at": "2025-08-19T03:03:46.188Z",
   "created_by": "kywark",
-  "updated_at": "2025-08-19T03:03:46.188Z",
+  "updated_at": "2025-08-23T01:38:42.051Z",
   "updated_by": "kywark"
 }
