@@ -4,7 +4,37 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "If your instructor is adding annotations to AVAnnotate themselves, prepare to present your annotations. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "If your instructor is asking you to add annotations to AudiAnnotate yourself(/yourselves), refer to "
+        },
+        {
+          "text": "the documentation",
+          "link": "https://av-annotate.org/how-to-use/"
+        },
+        {
+          "text": "and upload them where directed in "
+        },
+        {
+          "text": "AVAnnotate",
+          "link": "https://av-annotate.org"
+        },
+        {
+          "text": "."
         }
       ]
     }
@@ -18,6 +48,6 @@
   "slug": "4-presentation",
   "created_at": "2025-08-19T03:04:28.477Z",
   "created_by": "kywark",
-  "updated_at": "2025-08-19T03:04:28.477Z",
+  "updated_at": "2025-08-23T01:34:12.413Z",
   "updated_by": "kywark"
 }
