@@ -1,12 +1,21 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-08-19T02:44:30.761Z",
   "created_by": "kywark",
   "title": "John Beecher \"Syndicalism\" Case",
-  "updated_at": "2025-08-19T02:44:30.761Z",
-  "updated_by": "kywark",
+  "updated_at": "2025-08-23T20:05:58.991Z",
+  "updated_by": "tanyaclement",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
