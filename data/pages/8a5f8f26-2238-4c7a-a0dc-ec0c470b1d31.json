@@ -1,0 +1,48 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "68a1d1ef-129a-4b8f-8d46-3ae32bf555da",
+      "includes": [
+        "label",
+        "description",
+        "media",
+        "annotations"
+      ],
+      "start": 847,
+      "end": 937,
+      "file": "e08a931d-b954-4041-a7d0-4fe058e10f9e",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Test material"
+        }
+      ]
+    }
+  ],
+  "title": "Lesson Clip",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lesson-clip",
+  "created_at": "2025-10-08T11:18:38.927Z",
+  "created_by": "kywark",
+  "updated_at": "2025-10-08T11:18:38.927Z",
+  "updated_by": "kywark"
+}
