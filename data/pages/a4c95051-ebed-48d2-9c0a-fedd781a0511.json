@@ -1,0 +1,40 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Test material "
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlNrtsnxHvSRQUGKFEJxI15AiCRb5LgzXNjQ&s",
+      "caption": "caption?",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Home Page",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "home-page",
+  "created_at": "2025-10-08T11:24:28.625Z",
+  "created_by": "kywark",
+  "updated_at": "2025-10-08T11:24:28.625Z",
+  "updated_by": "kywark"
+}
