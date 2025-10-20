@@ -33,6 +33,14 @@
           "text": "Test material"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Lesson Clip",
@@ -43,6 +51,6 @@
   "slug": "lesson-clip",
   "created_at": "2025-10-08T11:18:38.927Z",
   "created_by": "kywark",
-  "updated_at": "2025-10-08T11:18:38.927Z",
+  "updated_at": "2025-10-20T02:26:32.180Z",
   "updated_by": "kywark"
 }
