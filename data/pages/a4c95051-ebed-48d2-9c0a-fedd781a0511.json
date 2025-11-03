@@ -22,7 +22,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This project is an example asynchronous classroom lesson created by Bethany Radcliff and Kylie Warkentin. Students will work with the “‘Criminal Syndicalism’ Case, McComb, Mississippi (Side 1)” recording from the John Beecher Sound Recordings Collection at the University of Texas’s Harry Ransom Center throughout the course of the lesson."
+          "text": "This project is an educational example of working with sensitive audio created by Bethany Radcliff and Kylie Warkentin using the “‘Criminal Syndicalism’ Case, McComb, Mississippi (Side 1)” recording from the John Beecher Sound Recordings Collection at the University of Texas’s Harry Ransom Center. Included inside is background research of the social/historical context of the recording (including full transcription of the audio), a teacher lesson plan, an asynchronous student-facing lesson, and an example collaborative student project. "
         }
       ]
     },
@@ -58,7 +58,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": ""
         }
       ]
     },
@@ -119,6 +119,6 @@
   "slug": "home-page",
   "created_at": "2025-10-08T11:24:28.625Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-03T02:59:26.997Z",
+  "updated_at": "2025-11-03T06:27:20.328Z",
   "updated_by": "kywark"
 }
