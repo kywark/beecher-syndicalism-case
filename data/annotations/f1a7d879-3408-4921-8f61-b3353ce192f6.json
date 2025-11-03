@@ -1,1 +1,6049 @@
-{"annotations":[],"event_id":"68a1d1ef-129a-4b8f-8d46-3ae32bf555da","set":"Full Transcription","source_id":"e08a931d-b954-4041-a7d0-4fe058e10f9e"}
+{
+  "annotations": [
+    {
+      "start_time": 11,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We'll have some questions. That may be useful and helpful, uh, to us, uh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "5be7126b-3f43-4d47-9c17-4e810571f11e"
+    },
+    {
+      "start_time": 20,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's very, uh, very much important that you became a political prisoner, this is what you were, in many ways."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "c62f18fa-0a4b-4314-8425-ff749adf107a"
+    },
+    {
+      "start_time": 29,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not that we say you should atone [for this?] if you did, I don't know whether you did or didn't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "c4c5184a-824b-4fe6-a26f-02bf9f4d50b1"
+    },
+    {
+      "start_time": 33,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maybe some of you did. But this we shouldn't have done, because we need discipline."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "79b45490-c47a-4b82-8e8a-e0c381fc8f13"
+    },
+    {
+      "start_time": 38,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have to have far more discipline than the white man if we're gonna win this, uh, struggle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "52edf56b-f107-408a-9d3a-619057d82c6c"
+    },
+    {
+      "start_time": 42,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the Mississippian is fighting a fool's battle. A battle that he has to lose."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "c3bef42e-01e7-44f7-baf0-a50b4c61407b"
+    },
+    {
+      "start_time": 49,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in winning it. We need control and restraint."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "99e0b2ad-7c42-4380-8df8-8f11ce29638d"
+    },
+    {
+      "start_time": 54,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But when we strike, we strike where we're on good grounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "e727d3fb-702a-4b7a-aa70-456180647b90"
+    },
+    {
+      "start_time": 58,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But whether you threw a brick or didn't. The fact still remains. He used you as a tool."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "d2f66292-cb81-422e-8c30-dded736d3c52"
+    },
+    {
+      "start_time": 63,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As an instrument. He made something of a thing of you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "c9934617-2477-40c2-9587-a058ef72ea59"
+    },
+    {
+      "start_time": 69,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because he was trying, by keeping you in jail, by setting a bond at $5,000 and finally reducing it to $500."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "f0653d04-a342-4342-bbac-8f35b11ff238"
+    },
+    {
+      "start_time": 77,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to strike fear in the hearts of your parents and other people in the community. He was trying to cut off one segment"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "92625629-8e7e-47a9-88f4-c6ba92203412"
+    },
+    {
+      "start_time": 84,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of the Negroes of MCComb. from another segment, another part of the… city. He was trying to divide the people who live here"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "774b7035-a1b6-4b2d-9863-2809b7583e4d"
+    },
+    {
+      "start_time": 94,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "from those of us who are down at the Freedom House, attempting to work in the community to gain the kinds of justice, the kind of right action"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "6f12497a-f6df-4e4e-9f55-0cb81f25d445"
+    },
+    {
+      "start_time": 106,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and good living, that is necessary if any of us are going to live in a free America, particularly in the free Mississippi."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "f0e8adac-857a-4219-ad02-8eb8158c2b43"
+    },
+    {
+      "start_time": 114,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, you were used. Some of you, no doubt, will be bitter about it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "b9d79bb5-fdbf-4b50-b0c1-bcf787f5ccaa"
+    },
+    {
+      "start_time": 121,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know a lot of people were bitter the night the houses were bombed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "791a0a51-7512-4cd6-968f-fd192620d844"
+    },
+    {
+      "start_time": 125,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bitterness alone is not going to suffice. If you're angry, good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "b9f0502b-0f9a-4168-aee8-7a259072ad67"
+    },
+    {
+      "start_time": 131,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, you have right to be angry. The question now is not whether you're angry"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "22e1fb01-d0e0-444f-be89-1e153bfd10c1"
+    },
+    {
+      "start_time": 138,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "or you dislike somebody, but whether or not"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "7d89088b-0b80-4082-9718-72e34a776771"
+    },
+    {
+      "start_time": 144,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you will take actions, take steps, to change the kind of city and county where people can be held in jail for things like this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "8f49f64a-8df2-4b69-a4e1-e255cd489197"
+    },
+    {
+      "start_time": 154,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where they can create a law to arrest any Negro or any white person in the movement on just about any charge they want to. They, you know… Give it a nice sounding name, they say \"syndicalism.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "18ae7f8a-83e4-4bdf-bc10-ad96de481375"
+    },
+    {
+      "start_time": 166,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some of us, you know, stumble over it when we kind of pronounce the word."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "8197b882-faa8-4279-b6e1-87423b9e24fb"
+    },
+    {
+      "start_time": 170,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it still basically means that anyone tries to work for justice in our society"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "e3123170-23dc-4e12-8b5f-7b1ceb9c263a"
+    },
+    {
+      "start_time": 177,
+      "end_time": 182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "is doing something against the law. This is ironic, this is a mockery."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "28e36a1a-663e-43ea-91ac-a29dc72f3d0e"
+    },
+    {
+      "start_time": 182,
+      "end_time": 188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, during the next… few weeks, months, or years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "0cb40ccb-cfb5-453d-a84f-0df3fd1255aa"
+    },
+    {
+      "start_time": 188,
+      "end_time": 194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyone here in Mississippi and in the South is going to be embroiled in a battle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "8c199426-3415-473e-a09d-1ee0f0e8cb34"
+    },
+    {
+      "start_time": 196,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you're going to have to do something. This includes many things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "5e894aa7-251e-4734-b0e9-e12b7211faa1"
+    },
+    {
+      "start_time": 200,
+      "end_time": 205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As students, you're going to have to speak in your community, and perhaps out of your community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "897b6719-ee51-4a5d-91ae-f75a84329f42"
+    },
+    {
+      "start_time": 204,
+      "end_time": 210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tell people what's happening, to tell people why they must try and change this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "88fc8224-7994-4f48-aded-a6c0cbbfea33"
+    },
+    {
+      "start_time": 210,
+      "end_time": 222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Those of you who are students are still at the same time going to have to be working very hard at your studies, so that you're not losing ground there as you're trying to win it over in another field."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "245dce35-ced7-48b6-8efb-4d38ec42ab5e"
+    },
+    {
+      "start_time": 221,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're going to have to be out canvassing, talking to people, doing something, to bring about justice --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "fe5ff100-e008-40ab-a5f1-7d961808732e"
+    },
+    {
+      "start_time": 226,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "unless you enjoyed being in jail. If you didn't enjoy it, then you must do something to change it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "b6da04ad-fec5-45fe-821c-4c1f2a3042fb"
+    },
+    {
+      "start_time": 232,
+      "end_time": 238,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And not simply turn your back and say, \"it can't happen again,\" because it CAN happen again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "d0d4e215-7603-4d97-9c9a-e89c0e10aadc"
+    },
+    {
+      "start_time": 237,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it MIGHT happen tomorrow. Unless you're ready to do something."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "4e9819d8-b74e-40d2-a441-762bd8f8fc82"
+    },
+    {
+      "start_time": 242,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unless you, your friends, and your parents are ready to band together as a united people seeking to bring about a full, good, free society and world in which to live."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "b5f1a597-9e04-48b2-a68d-f6d9636d088f"
+    },
+    {
+      "start_time": 254,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let me point out one or two quick things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "9448c6f3-89ed-42b2-8192-81c992c2c065"
+    },
+    {
+      "start_time": 257,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're going to have a rally. On Sunday night. we're going to have a Freedom Day on Monday."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "8fda18c6-91e7-437e-be29-17b8f0d98cfe"
+    },
+    {
+      "start_time": 263,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where we'll be working primarily with the adults, trying to get them to go to Magnolia and register."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "60e4269a-c43e-4a7b-afdb-9864562584e3"
+    },
+    {
+      "start_time": 270,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To vote. You realize that if your parents -- and you -- were voters. This could not have happened to you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "2d938a6a-8fa7-455f-bfc0-97ff3f5236b8"
+    },
+    {
+      "start_time": 281,
+      "end_time": 288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sheriff Warren, Chief Guy, Mayor Burt. You name anyone you want."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "bc4b3093-2b2b-421b-8d03-3fbe6764a620"
+    },
+    {
+      "start_time": 288,
+      "end_time": 301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He's in power, he's in office. Because you don't vote. He treats you the way he does. Because you or your parents don't vote. And if you vote, out goes Warren."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "237d943d-f275-48a5-b6cb-4901cb3a3f31"
+    },
+    {
+      "start_time": 300,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We say goodbye to Guy and to Bert."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "959659be-e213-477a-9ec4-c94529aca896"
+    },
+    {
+      "start_time": 307,
+      "end_time": 310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can change it. You can do something. We're hoping that all of you --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "c5f23122-fe59-4975-b1f8-b633890cf0e5"
+    },
+    {
+      "start_time": 309,
+      "end_time": 314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm hoping, I'm sure you will, but… all of you will be at the rally."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "72e62f6a-a9c9-4386-8475-b701c23b78f6"
+    },
+    {
+      "start_time": 314,
+      "end_time": 322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On Sunday. Perhaps… Uh, Jesse will ask some of you to speak, to say something."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "090dca21-c7a8-487c-9973-e6efc890b732"
+    },
+    {
+      "start_time": 321,
+      "end_time": 327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We want you there. I want the people to see you, to know who you are."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "6b999376-3e95-40f2-9a2f-692f6c88002b"
+    },
+    {
+      "start_time": 326,
+      "end_time": 329,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To know that you suffered something for them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "55f06235-d75f-46f1-86cb-5b7976e783d7"
+    },
+    {
+      "start_time": 328,
+      "end_time": 334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During the next few weeks, you'll be called on many times: Be ready and be available."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "537a95d3-06ff-4f69-a24f-8ee060186f9d"
+    },
+    {
+      "start_time": 331,
+      "end_time": 337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " This is... little things that, on my mind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "8b19f9c2-7f66-4f0f-b346-ea327bd2b849"
+    },
+    {
+      "start_time": 337,
+      "end_time": 342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you all have any questions. fine. If not… [cough]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "2065d0a2-5ba8-4dce-98f0-f34c5bb35c57"
+    },
+    {
+      "start_time": 342,
+      "end_time": 352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think Dennis and Cephas have… Some questions that they wish to… to ask about conditions at the jail, and questions that were asked of you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "fbb18bcb-4d15-4307-aac6-6115ff4e7c8d"
+    },
+    {
+      "start_time": 352,
+      "end_time": 353,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dennis, did you first want to…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Topic",
+          "tag": "Opening Speech"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        }
+      ],
+      "uuid": "d2e30afe-9064-4939-9d08-47f2b73e215b"
+    },
+    {
+      "start_time": 354,
+      "end_time": 361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I wanted to say a couple things. Some of you saw me when you first came in, when you were first picked up. I remember some of the faces."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Dennis Sweeney"
+        },
+        {
+          "category": "Topic",
+          "tag": "Apology"
+        }
+      ],
+      "uuid": "e98a407c-400f-493d-ad90-01a410aa653b"
+    },
+    {
+      "start_time": 360,
+      "end_time": 365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was… that was when I was in a cell downstairs, but I was -- I was out in a day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Dennis Sweeney"
+        },
+        {
+          "category": "Topic",
+          "tag": "Apology"
+        }
+      ],
+      "uuid": "03e6ff13-2e1e-4000-99a2-f166ff670b98"
+    },
+    {
+      "start_time": 364,
+      "end_time": 377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I just wanted to say about that sort of thing, that, um… I've thought, you know, 3 or 4 times since I've been out of jail, and you've still been in jail, what you must be thinking about, and how it must make you feel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Dennis Sweeney"
+        },
+        {
+          "category": "Topic",
+          "tag": "Apology"
+        }
+      ],
+      "uuid": "79342978-fb42-43dd-9f47-da6002dd50c3"
+    },
+    {
+      "start_time": 375,
+      "end_time": 385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To know that, you know, a white civil rights worker can be picked up and out of jail in a day when you have to stay in jail and stay in jail and stay in jail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Dennis Sweeney"
+        },
+        {
+          "category": "Topic",
+          "tag": "Apology"
+        }
+      ],
+      "uuid": "8f8e475a-68e4-4cba-8776-863a5b538bb3"
+    },
+    {
+      "start_time": 385,
+      "end_time": 398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it's not fair, it's… It's, you know, I don't know what to say about it, except that… That's why we're… that's why we're down here, and that we're not gonna leave [cough] until such a time arrives that…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Dennis Sweeney"
+        },
+        {
+          "category": "Topic",
+          "tag": "Apology"
+        }
+      ],
+      "uuid": "4971fced-6057-4b85-a271-37b25438eced"
+    },
+    {
+      "start_time": 397,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you know, people aren't treated that way. In other words, you know, I wasn't bailed out, I was just released. They tried to get ALS to testify against me, and… And fortunately…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Dennis Sweeney"
+        },
+        {
+          "category": "Topic",
+          "tag": "Apology"
+        }
+      ],
+      "uuid": "02b287fa-0a0f-491c-a1c2-54005711efa1"
+    },
+    {
+      "start_time": 411,
+      "end_time": 417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He was courageous enough in the face of Sheriff Warren, and… Attorney Reeves to not do that kind of thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Dennis Sweeney"
+        },
+        {
+          "category": "Topic",
+          "tag": "Apology"
+        }
+      ],
+      "uuid": "7eb3658a-7bcc-4e9e-adbc-ca83f2afa7d3"
+    },
+    {
+      "start_time": 417,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so they had to drop the charges and let me go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Dennis Sweeney"
+        },
+        {
+          "category": "Topic",
+          "tag": "Apology"
+        }
+      ],
+      "uuid": "ab80cc3b-bf96-4ea6-b664-a94fabc0b6ce"
+    },
+    {
+      "start_time": 421,
+      "end_time": 428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, um… I just want to apologize for the way that system works in that particular case, and I know how you must feel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Dennis Sweeney"
+        },
+        {
+          "category": "Topic",
+          "tag": "Apology"
+        }
+      ],
+      "uuid": "b80e5b29-b93b-4df3-9439-261bf3e188aa"
+    },
+    {
+      "start_time": 428,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, um, that's really why, you know, we're here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Dennis Sweeney"
+        },
+        {
+          "category": "Topic",
+          "tag": "Apology"
+        }
+      ],
+      "uuid": "65a01ed5-b45b-4a1a-aa85-d7c424f56d75"
+    },
+    {
+      "start_time": 432,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, the only thing, only question I had was… was about ALS, and… and he's…  he's told me already [cough] several things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Dennis Sweeney"
+        },
+        {
+          "category": "Topic",
+          "tag": "Apology"
+        }
+      ],
+      "uuid": "a4ee8e1e-207f-4c36-815e-8a320cf06211"
+    },
+    {
+      "start_time": 439,
+      "end_time": 448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They said, I think it'd be important later on if John could get --Could get an affidavit from ALS as to what Reeves said to him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Dennis Sweeney"
+        },
+        {
+          "category": "Topic",
+          "tag": "Apology"
+        }
+      ],
+      "uuid": "e16866ee-bb4a-44b3-bd15-4836bb64fdca"
+    },
+    {
+      "start_time": 452,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All I want to say is welcome back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #2"
+        }
+      ],
+      "uuid": "c23fe202-ac8d-4461-8462-395ad788aa54"
+    },
+    {
+      "start_time": 456,
+      "end_time": 465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughter and exclamation]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "bd6c05cc-22d4-4725-981f-4d9345773e52"
+    },
+    {
+      "start_time": 461,
+      "end_time": 478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right now, everybody's, you know, ready to, um, fall back into the normal… uh procedures in life [clearing throat], you know, living, sort of, as we did before, but not… I hope not as completely as we did before."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #2"
+        }
+      ],
+      "uuid": "b187d727-92f5-4d3d-9059-4eff24a61aa7"
+    },
+    {
+      "start_time": 479,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[murmmuring of agreement]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "207574e4-49b0-460c-8d80-360bdc3c2316"
+    },
+    {
+      "start_time": 481,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, no. maybe if you, uh, after you've had a chance to sleep on your own beds and uh, eat at your own table. Among your friends."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #2"
+        }
+      ],
+      "uuid": "ccba0c89-559c-4a07-9e63-6460248d5079"
+    },
+    {
+      "start_time": 487,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[murmmuring of agreement]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "79066526-97ac-490b-b70b-efacaf310e06"
+    },
+    {
+      "start_time": 491,
+      "end_time": 493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[unintelligible, laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "daf7b22c-571d-49ec-bee7-9c76dc70618d"
+    },
+    {
+      "start_time": 490,
+      "end_time": 496,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Go ahead, Larry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #2"
+        }
+      ],
+      "uuid": "ac46f188-0b46-40d9-8200-8e5c1da71cf9"
+    },
+    {
+      "start_time": 500,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Warden came out down there to jail a while ago -- as for [?] the fellow that were takin' our names he told us to come back every day. Do any of y'all --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Larry"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "5290d4cc-9b0f-4429-90f5-e021c3038d6b"
+    },
+    {
+      "start_time": 505,
+      "end_time": 506,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[new voice] I didn't understand -- [cough]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #3"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "4a8b09fb-2ada-45e7-8002-2016fbbe1984"
+    },
+    {
+      "start_time": 506,
+      "end_time": 510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I didn't understand his name or what he means about comin' --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Larry"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "aad04ef6-d74d-4d2b-8a4f-295a6876e6c4"
+    },
+    {
+      "start_time": 509,
+      "end_time": 511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He said something about court on the 20th."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #3"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "dda45ba0-5c6d-4b52-822c-b06e61291605"
+    },
+    {
+      "start_time": 503,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I told him, he says tomorrow. He says appear every day. Until it's thrown out, [cough] the case is thrown out, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Larry"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "89cb9161-bbbe-416c-b48b-a04309bbb458"
+    },
+    {
+      "start_time": 519,
+      "end_time": 528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, that sounds, uh… Absolutely stupid to me. But we will check with our lawyer to make absolutely certain. we will, you know, find out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "19d734e3-e442-4003-a585-692ab6da41c8"
+    },
+    {
+      "start_time": 527,
+      "end_time": 531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because we don't want them to-- pulling you back in on a technicality."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "593984bb-0a08-4e4d-bb94-6db4a2dbf16d"
+    },
+    {
+      "start_time": 531,
+      "end_time": 536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, they would try and do something as asinine as that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "2c7a040c-28ca-4526-ade9-3a70439d9576"
+    },
+    {
+      "start_time": 537,
+      "end_time": 538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's all I'm saying."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #3"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "b231e81e-69d7-4213-b3c0-d445fe03b846"
+    },
+    {
+      "start_time": 537,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, uh… We want to check that out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "43ea5098-b3ce-4b69-8ae8-62fe143c459a"
+    },
+    {
+      "start_time": 540,
+      "end_time": 543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, any other questions of this nature? Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "3c9e386c-f88f-4882-8bdd-66730722065a"
+    },
+    {
+      "start_time": 545,
+      "end_time": 548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A couple questions to you, and to the parents."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "5db43734-472f-4f60-b000-12736819f57a"
+    },
+    {
+      "start_time": 546,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We ought to know, as we release this. Uh, what were the conditions there? First, in terms of the parents being able to get in and see the children. I know some were able, and some were not able to see their children."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "182a781e-c439-42ef-978f-c37c4e0ca977"
+    },
+    {
+      "start_time": 558,
+      "end_time": 564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it might be helpful for John and for us to know, situation-wise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "0ee20028-a862-4d8c-bc40-8c4d3630c932"
+    },
+    {
+      "start_time": 564,
+      "end_time": 577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a week before I seen Willy. Before they let me see Willy. But I seen Father June, the day after they uh carried him up. Carried him down in Magnum[?]. But it was a week before they let me even see Willy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Helena Thomas"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "a66e1478-9698-4179-9ace-c311a3a06457"
+    },
+    {
+      "start_time": 567,
+      "end_time": 568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was Ms. Thomas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "b72806d2-3da1-4200-8728-ef7e73525563"
+    },
+    {
+      "start_time": 578,
+      "end_time": 579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can I say somethin'?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #4"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "966a4d07-3d16-4bec-b365-0188066a4b13"
+    },
+    {
+      "start_time": 579,
+      "end_time": 579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "7fad43b1-9c27-40ea-8667-e6dd865a8099"
+    },
+    {
+      "start_time": 580,
+      "end_time": 586,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's goin on, how do you feel? Whether they let you see them parents or not? [unintelligble] Couldn't see 'em."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #4"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "14f87b93-23c3-4273-8b3a-86a506e4ccbb"
+    },
+    {
+      "start_time": 586,
+      "end_time": 590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[unintelligble]--plastic bags, they wasn't --  even the white people could[?] come in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #5"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "6a49bb27-c8a3-47b0-8170-a1446fc638b7"
+    },
+    {
+      "start_time": 590,
+      "end_time": 594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They wouldn't run[?] their mouth while they wouldn't give me no clothes or nothin' until Saturday [unintelligble]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #6"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "5cc01603-342d-4cc3-8df6-4c05862d579f"
+    },
+    {
+      "start_time": 598,
+      "end_time": 603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "901ba453-58cf-4278-91d0-70df2516c1db"
+    },
+    {
+      "start_time": 585,
+      "end_time": 603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They wouldn't even let me talk to nobody. The whole time I was there, the whole 30 days. [unintelligble] Willoughby Haynes tried to talk to me, and they said no."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "bef4036a-9b8a-4c0c-a85a-1bab7586114f"
+    },
+    {
+      "start_time": 602,
+      "end_time": 607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can I make a suggestion, because this is important. Give your name as you say this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "bda02c89-0421-4369-ac28-c0926da5e6da"
+    },
+    {
+      "start_time": 607,
+      "end_time": 613,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Louisa Banks, They wouldn't even let me talk to nobody. The whole 30 days."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "2dc7d342-70aa-4e57-9f35-d24ead6819a3"
+    },
+    {
+      "start_time": 614,
+      "end_time": 615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No relatives were allowed to…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "6c3aa336-0ba1-421d-ba62-0b9c259a1679"
+    },
+    {
+      "start_time": 615,
+      "end_time": 620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They let my uncle come one time and told him to hurry up, because they didn't have but a few seconds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "075e25de-e91c-4482-ab22-ae54e836ceca"
+    },
+    {
+      "start_time": 619,
+      "end_time": 623,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And out of the 30 days, they let me see nobody else."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "f4dee645-78f3-4762-a9d8-cfe76c57e4de"
+    },
+    {
+      "start_time": 625,
+      "end_time": 627,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[unintelligble]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "741bbd37-23ba-4767-93ee-189b2967499e"
+    },
+    {
+      "start_time": 629,
+      "end_time": 629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ok."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "e969afe6-9074-4354-857e-103aa5a683bb"
+    },
+    {
+      "start_time": 630,
+      "end_time": 630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ok."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "a77f3d65-c6f6-412d-a208-e611e35486b6"
+    },
+    {
+      "start_time": 631,
+      "end_time": 640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[unintelligible] I have ... one time, and I gave him one, and I gave him…two packs, and once I only gave him one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "820efa18-e39c-42d2-887b-eace7c022f71"
+    },
+    {
+      "start_time": 641,
+      "end_time": 643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They were selling those things..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Dennis Sweeney"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "021e4987-724a-42f6-bc40-9fde4ac9bba3"
+    },
+    {
+      "start_time": 642,
+      "end_time": 643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They were selling them back to us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "387a7967-ec1b-49b9-84db-7d28cefa66d5"
+    },
+    {
+      "start_time": 642,
+      "end_time": 643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They were very…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Christine Anderson"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "a84f7103-79ee-45f0-84eb-0aa751562a8e"
+    },
+    {
+      "start_time": 644,
+      "end_time": 645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And  selling 'em back to em for forty cents."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "b020dd99-86cf-4fd2-8e68-6b79425f6d2f"
+    },
+    {
+      "start_time": 646,
+      "end_time": 656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[multiple voices of agreement/discussion] Yeah, Forty cents a pack."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "dc327680-32f6-4112-acd2-62de4144dc59"
+    },
+    {
+      "start_time": 656,
+      "end_time": 657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[someone Shhs.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "867e2c73-5c7d-4c29-ae28-7ac871ed968b"
+    },
+    {
+      "start_time": 657,
+      "end_time": 667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mother of Nividian[?]. And I can say that I carried quite a bit of food there, and quite a bit of… Um, clothing. But I can say the cigarettes were never carried up as I carried them there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Christine Anderson"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "0d5f7efd-eb2c-48d6-a76e-61877af9822a"
+    },
+    {
+      "start_time": 666,
+      "end_time": 676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I carried a six[?] pack I only got one. And, um, some days they were… mean to us. They cursed at us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Christine Anderson"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "483f8529-c68a-4ac0-8cd1-a43afa11d078"
+    },
+    {
+      "start_time": 674,
+      "end_time": 677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[background agreement]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "0445fb3c-f76d-4879-bc3b-975a76e96640"
+    },
+    {
+      "start_time": 677,
+      "end_time": 680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And your name, your name again, please."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "9360327b-c226-43b0-b2dc-df840b23a914"
+    },
+    {
+      "start_time": 676,
+      "end_time": 684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And yesterday,-- Christine Anderson. Yesterday, I went there with, uh, his father, sister, and I."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Christine Anderson"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "4599083b-f342-403b-a4be-9f4de21dba0c"
+    },
+    {
+      "start_time": 683,
+      "end_time": 689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, uh, they wouldn't let me in, but they let the sister and the father go in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Christine Anderson"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "9e488ab8-08f3-451a-a448-6dfde24db5f9"
+    },
+    {
+      "start_time": 688,
+      "end_time": 692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And 3 or 4 was going in to see the other people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Christine Anderson"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "15b87ce7-2c90-4af3-8049-dca4aa69a004"
+    },
+    {
+      "start_time": 691,
+      "end_time": 694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But they wouldn't let me go in. I'm his mother."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Christine Anderson"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "7589cb34-ec41-4b13-975a-56bfd3b93fe1"
+    },
+    {
+      "start_time": 695,
+      "end_time": 697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the first day, I went to see my son in the morn --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Helena Thomas"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "f3c7dafe-2450-4ff1-a1fd-4c5868d6292b"
+    },
+    {
+      "start_time": 698,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, just give your name again. Ms. Thomas?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "9b6c0a9d-a1b9-4ece-b3b6-0127fe18fd1a"
+    },
+    {
+      "start_time": 700,
+      "end_time": 707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Helena Thomas. I told him he suffered with a headache. He said he must have been out of his mind from what he did. That's what he told me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Helena Thomas"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "8ae707a0-94cb-4d3a-a438-10eeb267c3fd"
+    },
+    {
+      "start_time": 709,
+      "end_time": 42900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yeah, and we had to take the bus out, and we had to take showers up under the, uh… ice in a [unintelligble]. Cold hearted. [unintelligble]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #5"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Conditions"
+        }
+      ],
+      "uuid": "9c92693b-cdc2-4309-b92d-1946a656ac34"
+    },
+    {
+      "start_time": 718,
+      "end_time": 719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cold water."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #6"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Conditions"
+        }
+      ],
+      "uuid": "2e6796f1-6d99-4c52-89cb-e63fdd1d141a"
+    },
+    {
+      "start_time": 719,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cold water."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #5"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Conditions"
+        }
+      ],
+      "uuid": "03994390-a2e0-430a-931c-5193ab29c3a2"
+    },
+    {
+      "start_time": 720,
+      "end_time": 724,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The other day -- Harry Malley, your daddy sent us some apples and they got some of em out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "2f6c0faa-91c6-403d-bbd7-e0521b3e0815"
+    },
+    {
+      "start_time": 723,
+      "end_time": 725,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[background voices] Yeah, they sure did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "f84ae37c-f137-4e57-8b98-fcf80b0e6917"
+    },
+    {
+      "start_time": 725,
+      "end_time": 727,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They opened the package and got them all out of the box. [unintelligble]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "64f0af8d-c56b-40ee-96c3-17ac9dfe3bd4"
+    },
+    {
+      "start_time": 727,
+      "end_time": 728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I like apples too when they got the..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #6?"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "f138c77c-3613-468f-acdf-f507365df2a3"
+    },
+    {
+      "start_time": 728,
+      "end_time": 730,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They got the apples back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "568cfbb0-058f-4ceb-919f-11e1e9d72c74"
+    },
+    {
+      "start_time": 730,
+      "end_time": 733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I always sent the, sent the closed bag -- did you receive em like that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Christine Anderson"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "4af8b1c2-d55b-4b0e-8687-79143254f75d"
+    },
+    {
+      "start_time": 733,
+      "end_time": 738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[unintelligible] -- where I could see everything, you know, they was-- they said…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "14e86d6f-a863-48ad-895a-e039c50b57a0"
+    },
+    {
+      "start_time": 737,
+      "end_time": 738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[background laguhter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "9d4f4bed-862d-4225-be51-337ecdeadef7"
+    },
+    {
+      "start_time": 752,
+      "end_time": 746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, they said, they would go in there, get barbecue, somebody sent some barbecue to some of they children last Sunday, and they said, \"This is damn good barbeque.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Items"
+        }
+      ],
+      "uuid": "5cc3c40b-6539-4c3f-b964-ef7c848ba07f"
+    },
+    {
+      "start_time": 749,
+      "end_time": 754,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughter and cheers] Tell 'em what they said!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "365cd80d-91fc-416f-a1ba-0eb2142c5e46"
+    },
+    {
+      "start_time": 747,
+      "end_time": 754,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[unintelligble, group cheers/voices]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "019304f8-af72-44cb-a26c-1676697a9056"
+    },
+    {
+      "start_time": 753,
+      "end_time": 769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About, about four days ago -- about four days ago -- about four days ago -- they started, they started turning the lights on -- off about… You know, about 9 o'clock, they say we was making up too much noise in there, and they told us they're gonna take all the blankets and bring all the mattresses out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #7"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "864c72ac-5c6c-4b67-acdd-9cfa0390c77e"
+    },
+    {
+      "start_time": 769,
+      "end_time": 772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There weren't but 5 in there. And it was 8 of us, you know, 5 with all the, single mattress."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #7"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "2449ee24-7201-40c0-a036-59b5aec7d8b3"
+    },
+    {
+      "start_time": 773,
+      "end_time": 778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They told us they were gonna quit feedin' us, and quit lettin' our parents see us, and quit lettin' them bring us anything."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #7"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "4f85134b-9ea9-408b-8abc-59d3f17e9a0c"
+    },
+    {
+      "start_time": 776,
+      "end_time": 781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did they ever make any, physical threats?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "2ec3940e-3be7-42ac-b7e7-7972b829bd9c"
+    },
+    {
+      "start_time": 782,
+      "end_time": 725,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, but -- [everyone talking all at once]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "a839b002-76ba-4fe1-9398-734c09d6ac88"
+    },
+    {
+      "start_time": 785,
+      "end_time": 788,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wait, now wait, wait -- let one talk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Female Voice #2"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "9bc4a81a-4f71-47b9-9aad-7ccb3aa1be6e"
+    },
+    {
+      "start_time": 788,
+      "end_time": 789,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Right there, son."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "bcca21d4-55bc-48f2-86f4-eb9fe9de6c26"
+    },
+    {
+      "start_time": 789,
+      "end_time": 799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before we got there, they told me if I didn't tell the truth -- which I was -- they told me that I was lyin, so they said they was going to put me in the --- put me in the --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #8"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "1e9b84c8-b55e-4591-9b5f-7ffb21cc6cd8"
+    },
+    {
+      "start_time": 799,
+      "end_time": 799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[other voices] sweat box"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "51495678-cdb6-4150-b78f-3b6c07b9d2ce"
+    },
+    {
+      "start_time": 799,
+      "end_time": 804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sweat box, where I couldn't see no one, and no kind a light."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #8"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "b40e79b6-f2e6-4cfe-9f43-84944b495a95"
+    },
+    {
+      "start_time": 804,
+      "end_time": 806,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They didn't actually do that though, did they?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "3128716d-7834-4df6-82ea-01c466236326"
+    },
+    {
+      "start_time": 806,
+      "end_time": 806,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #8"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "0cd87d19-4d9b-43e8-bc17-2e33e8425e33"
+    },
+    {
+      "start_time": 807,
+      "end_time": 808,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. Ard?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "f18d1e33-2114-425e-8256-d7e9b09fcb05"
+    },
+    {
+      "start_time": 808,
+      "end_time": 830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let me say one thing. Nick, [cough] let me see, the first week after we went down there, we're aware of, Nick, they -- one of those guys, somebody called them on the outside, and one of them guys shared with him and, 'bout two days after, Ward One, we drove back to hi' daddy, he ran in there and he hit him. And he drove back and he didn't come in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Boots Ard"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "64c6cebc-4fb9-459c-a9a9-2a9a746065f3"
+    },
+    {
+      "start_time": 830,
+      "end_time": 830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah but--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "bb3a040b-d8c5-4d48-8722-e0bc3e0478e3"
+    },
+    {
+      "start_time": 830,
+      "end_time": 831,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He did come in --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "76a20489-5b7d-4b96-94cb-15f824418e16"
+    },
+    {
+      "start_time": 831,
+      "end_time": 835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "59dcf188-5d05-40a6-b811-7197ba1f4994"
+    },
+    {
+      "start_time": 833,
+      "end_time": 842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He did, came back and had him drove back to his daddy. After we all got up and we… went back on the outside. The other one is two timin', they tried to shove around on us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Boots Ard"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "03be326c-0f0b-4dc6-856d-6f125f6bc00b"
+    },
+    {
+      "start_time": 844,
+      "end_time": 846,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have any, two or three questions? Mr. --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "ea0b447c-9545-405e-86c8-b5010bac63c2"
+    },
+    {
+      "start_time": 847,
+      "end_time": 853,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, um… I'd like to ask you about, uh -- what, recreation privileges did you have?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Conditions"
+        }
+      ],
+      "uuid": "60429699-7553-40bc-bc46-56febcf89279"
+    },
+    {
+      "start_time": 853,
+      "end_time": 855,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Multiple voices] None. None at all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Conditions"
+        }
+      ],
+      "uuid": "14c8ec63-cb5a-4fbb-9e6a-79cafb2d5893"
+    },
+    {
+      "start_time": 855,
+      "end_time": 857,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Were you able to get out of the cell at all?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Conditions"
+        }
+      ],
+      "uuid": "376651f8-0ebc-4b5c-ab42-c4ddab4bd7d9"
+    },
+    {
+      "start_time": 859,
+      "end_time": 859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[unintelligible] We could play cards."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Conditions"
+        }
+      ],
+      "uuid": "80d1309f-6f84-49b1-a284-7ca5c7792a68"
+    },
+    {
+      "start_time": 860,
+      "end_time": 861,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You could play cards. In the cell?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Conditions"
+        }
+      ],
+      "uuid": "13eff511-2e35-4338-a175-f24f57b82dfe"
+    },
+    {
+      "start_time": 861,
+      "end_time": 862,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the cell."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Conditions"
+        }
+      ],
+      "uuid": "96c92959-4667-4e5c-8b44-42fc1baa18fc"
+    },
+    {
+      "start_time": 862,
+      "end_time": 865,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you couldn't -- you didn't have any outside recreation or anything of that kind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Conditions"
+        }
+      ],
+      "uuid": "2d313e97-6772-4161-93b5-638fc0e797f5"
+    },
+    {
+      "start_time": 865,
+      "end_time": 865,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, sir."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Conditions"
+        }
+      ],
+      "uuid": "e950a014-9571-4abe-8b5f-bac83a9ea0ac"
+    },
+    {
+      "start_time": 865,
+      "end_time": 866,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Couldn't leave the cell."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Conditions"
+        }
+      ],
+      "uuid": "4bb4959e-7c2e-4b92-939b-8bdb39b2aaff"
+    },
+    {
+      "start_time": 866,
+      "end_time": 866,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No sir."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Conditions"
+        }
+      ],
+      "uuid": "7c18540e-1110-4c1d-b7b3-d91e37086c82"
+    },
+    {
+      "start_time": 867,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You could leave the cell and go see your parents, but you'd be in another cell."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #9"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "c456b241-19e0-494d-a7fc-ec868bd59840"
+    },
+    {
+      "start_time": 870,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In another cell."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "c4a9dc78-799a-4168-99b5-a0ffd0f16b72"
+    },
+    {
+      "start_time": 871,
+      "end_time": 871,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[unintelligible] Sometimes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "41bb9cd0-0a15-4480-8f05-dd5e16bd9b33"
+    },
+    {
+      "start_time": 872,
+      "end_time": 872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, sometimes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #9"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Visits"
+        }
+      ],
+      "uuid": "83bddc41-47db-4d37-93a9-74b32d478354"
+    },
+    {
+      "start_time": 874,
+      "end_time": 876,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How 'bout the food that they gave you there?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "7d6b044d-58b5-4c4d-a52d-66e2db0f0748"
+    },
+    {
+      "start_time": 880,
+      "end_time": 880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[chorus of voices laughing, saying \"the FOOD?\"; \"terrible!\"]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "7ebb6ef7-6816-45e9-b405-bd9572c8f537"
+    },
+    {
+      "start_time": 880,
+      "end_time": 880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cold --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "c6fe280d-b1af-48f7-b955-557273aa98cb"
+    },
+    {
+      "start_time": 880,
+      "end_time": 881,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cold beans --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "2a6ea098-a899-4b48-b456-05fe76a792d6"
+    },
+    {
+      "start_time": 881,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cold pork and beans out the can."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "23339452-eac7-48ca-aba9-64524d77e633"
+    },
+    {
+      "start_time": 882,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On Sunday."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "ef9bc5b9-b471-4f48-b60b-e8f5f9602451"
+    },
+    {
+      "start_time": 885,
+      "end_time": 887,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[unintelligble] -- mashed up with eggs. That's all --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "b5d65159-8b2e-4339-96f4-cf447befd461"
+    },
+    {
+      "start_time": 887,
+      "end_time": 888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beans so hard you couldn't have --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "977099d7-8e23-4fbc-ae9a-bd039b20d068"
+    },
+    {
+      "start_time": 888,
+      "end_time": 890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They ain't season there a piece of meat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "13632619-594b-4795-b551-1387e126c2e4"
+    },
+    {
+      "start_time": 892,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[shhing, clapping? in background]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "ef94712e-8b3d-4c39-be83-f2d8b8ee9dcc"
+    },
+    {
+      "start_time": 896,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cut in tape?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Tape",
+          "tag": "Cut"
+        }
+      ],
+      "uuid": "b45bd2fe-8dfe-45a0-bc25-ef8acc2a7b49"
+    },
+    {
+      "start_time": 897,
+      "end_time": 898,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "14:48 Ask the question again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Female Speaker #2"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "93009eed-94f4-4946-a457-dcd26cacd6a9"
+    },
+    {
+      "start_time": 898,
+      "end_time": 53520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm just asking about breakfast. You had coffee without cream or sugar, is that…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "c0a56513-7420-4376-a056-f338445bb03d"
+    },
+    {
+      "start_time": 903,
+      "end_time": 904,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[coughing, unintelligible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "9388317c-c581-4c7d-b1fb-cb94a6e4c5a7"
+    },
+    {
+      "start_time": 905,
+      "end_time": 908,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They stopped giving us coffee about...two weeks ago. They stopped giving us coffee."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #10"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "b775ed66-9586-4aeb-9c83-c121dd8f9896"
+    },
+    {
+      "start_time": 908,
+      "end_time": 909,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They wouldn't even give you coffee?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "d9fface3-8941-4311-ac24-1cba58f0c5d5"
+    },
+    {
+      "start_time": 909,
+      "end_time": 909,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "None at all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #10"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "f8a6b2d2-8cb5-4b9d-a86e-4e0846875433"
+    },
+    {
+      "start_time": 910,
+      "end_time": 912,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nothing at all. What did you have for breakfast?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "dff7b9b6-c717-4e8c-b00a-edf354fd3302"
+    },
+    {
+      "start_time": 912,
+      "end_time": 917,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[two voices] Grits, bacon, bread, little small pieces of bacon. White bread."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #10"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "05eab22d-79d7-4188-af49-72fb41c5a4e8"
+    },
+    {
+      "start_time": 914,
+      "end_time": 916,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And dry syrup. [Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "ae42d8d8-1998-460b-8c2c-48c6479eeee7"
+    },
+    {
+      "start_time": 918,
+      "end_time": 918,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But no coffee."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "116ddb90-b5fe-4752-b204-7466ebe24e52"
+    },
+    {
+      "start_time": 919,
+      "end_time": 921,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No coffee, they quit giving coffee."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #10"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "41ed9a72-223b-493a-b3ce-86062d9da72e"
+    },
+    {
+      "start_time": 921,
+      "end_time": 924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The syrup wouldn't even sweeten the coffee."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Food"
+        }
+      ],
+      "uuid": "e54f80d7-d6da-4449-b745-67cd50e32d29"
+    },
+    {
+      "start_time": 921,
+      "end_time": 926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How about your singing? Did they discourage your singing in the cells?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "1dfceac6-c06c-4d89-a376-02a375bbfe29"
+    },
+    {
+      "start_time": 926,
+      "end_time": 928,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah they cursed us, so many times, every night."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #10"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "2ebb5f7a-3938-406a-a304-885d85c72874"
+    },
+    {
+      "start_time": 927,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cut this, that, and the other out. Be quiet, and we gon' turn the lights off from now on. We gon' take your mattresses out and watch you sleep on the concrete in the jail.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #10"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "a52e2314-f896-4e3e-8332-38ae1a1b40a5"
+    },
+    {
+      "start_time": 936,
+      "end_time": 936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " --called us all different names."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #11"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "9132119e-f5b6-4d61-9d7a-2547cd0985a3"
+    },
+    {
+      "start_time": 937,
+      "end_time": 938,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What did they call you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "f11c95bd-3d98-4890-baa3-4fca0f6d2f4e"
+    },
+    {
+      "start_time": 937,
+      "end_time": 939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can't call the name --. [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #11"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "327cf0f2-bda4-45d8-bc10-bcf07ea339de"
+    },
+    {
+      "start_time": 941,
+      "end_time": 943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think the parents would excuse it this time, go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "5298bca8-a9e7-48a1-9110-c4d8c66e3fee"
+    },
+    {
+      "start_time": 944,
+      "end_time": 946,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, like we be sleeping....like--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #11"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "1edad771-9fd6-49d8-b74b-cb0f7ac0b0f6"
+    },
+    {
+      "start_time": 946,
+      "end_time": 946,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the daytime …"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "497aa8c6-2712-4b41-971a-24023aa1bf11"
+    },
+    {
+      "start_time": 947,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "--in the daytime, we'd be sleeping, and they'd run in there and kick on the door. \"All you fuckers get up in here.\" [laughter] \"That's when y'all stay…we'll call at night. Sleep in the daytime.\" [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #11"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        },
+        {
+          "category": "Content Warnings",
+          "tag": "Expletive"
+        }
+      ],
+      "uuid": "71d7dcef-9a6f-4aca-8e9d-11f94932bd68"
+    },
+    {
+      "start_time": 957,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cut in the tape?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Tape",
+          "tag": "Tape"
+        }
+      ],
+      "uuid": "f620f20c-8da5-4a3e-8903-19ad9e62eab3"
+    },
+    {
+      "start_time": 957,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the door you know, they...kick on the door, beat on the door.."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #11"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "05ef088a-cc38-4889-baca-c907651c0a7e"
+    },
+    {
+      "start_time": 960,
+      "end_time": 963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[multiple voices]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "42422269-21f0-48c8-91b7-8cc97625c587"
+    },
+    {
+      "start_time": 962,
+      "end_time": 963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trustees."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "d395ada0-1283-4e8d-9764-a586e14bcf4b"
+    },
+    {
+      "start_time": 963,
+      "end_time": 965,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "16:03 The jailer, we heard the jailer told him to do it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #12"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "0f0ffae1-1367-4de8-bd5f-499cd37d26d7"
+    },
+    {
+      "start_time": 965,
+      "end_time": 966,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He told him to beat on the door, wake them [n-word] up in there. [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #13"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        },
+        {
+          "category": "Content Warnings",
+          "tag": "Racial Slur"
+        }
+      ],
+      "uuid": "522d5204-6963-4321-8d84-f2b953a0188a"
+    },
+    {
+      "start_time": 968,
+      "end_time": 970,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who are the trustees, was he, uh, white?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "c73efffa-3a31-4574-b1da-93cb85ce72e2"
+    },
+    {
+      "start_time": 971,
+      "end_time": 971,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[multiple voices] Yeah, three white. Three of 'em."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "d2bcf683-09c2-4c8a-97ae-53cb909c39a2"
+    },
+    {
+      "start_time": 971,
+      "end_time": 972,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three, three white trustees."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "d21b21ee-4f5d-4a50-9f07-4a72c6f85832"
+    },
+    {
+      "start_time": 972,
+      "end_time": 976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bagwell. The one got lice with some of us in the pen the other day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "304e3268-4037-49a1-924f-b26c17c84483"
+    },
+    {
+      "start_time": 976,
+      "end_time": 976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who, who?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "John Beecher"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "ef4ed25b-fc1a-4fc8-b549-9e794d4d8298"
+    },
+    {
+      "start_time": 976,
+      "end_time": 978,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bagwell. Ol' Bake."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "a54ebef6-9d69-46cd-abd3-2a9c7f7a7d82"
+    },
+    {
+      "start_time": 977,
+      "end_time": 977,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Turner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "453b0782-7ad6-460a-87d3-95dc2d12323f"
+    },
+    {
+      "start_time": 978,
+      "end_time": 978,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Owens."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #12"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "52440c50-a057-4386-8b1e-6a9228496b12"
+    },
+    {
+      "start_time": 979,
+      "end_time": 979,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "--and Owens."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "8787b570-d390-4490-b798-40200f0f6bb9"
+    },
+    {
+      "start_time": 979,
+      "end_time": 986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well now, Mr. Owens, he was -- he was a nice man. [unintelligible] he brought us --  stuff like that, he was a nice man."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #12"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "379a73b3-f726-45f9-bcc6-5760d7969196"
+    },
+    {
+      "start_time": 981,
+      "end_time": 985,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He was pretty good. He never did be in[?] much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "a7c28e4e-0ac4-487b-9928-f128e8e6660b"
+    },
+    {
+      "start_time": 987,
+      "end_time": 990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr. George Guy cussed at me. Called me a \"son of a bitch.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "1db60812-6ffe-4058-a8be-9cb03f271633"
+    },
+    {
+      "start_time": 990,
+      "end_time": 990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Description"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        }
+      ],
+      "uuid": "ff009bc6-482c-4cff-bf3c-f31cc576b5f0"
+    },
+    {
+      "start_time": 991,
+      "end_time": 983,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "George Guy, the police chief?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Male Speaker #1"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        }
+      ],
+      "uuid": "28b91252-c880-4f0e-b440-3e36a74082d8"
+    },
+    {
+      "start_time": 993,
+      "end_time": 58603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's right, when they came into the city hall that night, when they arrest me, him and Biggie, when they arrest me, he said, \"You son of a bitch, you tell us the truth.\" That's what they say."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Louisa Banks"
+        },
+        {
+          "category": "Topic",
+          "tag": "Questions"
+        },
+        {
+          "category": "Topic",
+          "tag": "Treatment from Guards"
+        },
+        {
+          "category": "Content Warnings",
+          "tag": "Expletive"
+        }
+      ],
+      "uuid": "12625826-bf34-40e5-9693-cfb87fdface5"
+    }
+  ],
+  "event_id": "68a1d1ef-129a-4b8f-8d46-3ae32bf555da",
+  "set": "Full Transcription",
+  "source_id": "e08a931d-b954-4041-a7d0-4fe058e10f9e"
+}
