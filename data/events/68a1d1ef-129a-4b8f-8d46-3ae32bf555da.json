@@ -4,7 +4,7 @@
       "label": "John Beecher \"Syndicalism\" Audio",
       "is_offline": false,
       "file_type": "Audio",
-      "file_url": "https://norman.hrc.utexas.edu/audioFiles/open/R_0124_01_01_acc_20091001.mp3",
+      "file_url": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll1/34.mp3/byte/json",
       "duration": 1005,
       "caption_set": [],
       "set_sort": []
@@ -166,7 +166,7 @@
   "rights_statement": "https://rightsstatements.org/vocab/NoC-US/1.0/",
   "created_at": "2025-08-19T02:50:34.962Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-03T06:44:29.884Z",
+  "updated_at": "2025-11-03T21:04:34.588Z",
   "updated_by": "kywark",
   "av_file_order": [
     "e08a931d-b954-4041-a7d0-4fe058e10f9e"
