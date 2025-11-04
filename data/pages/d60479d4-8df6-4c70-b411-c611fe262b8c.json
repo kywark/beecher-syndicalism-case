@@ -4,7 +4,1049 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "This lesson is targeted towards high school students (Grades 9-12), though can be adapted for higher and lower grades by adjusting the length of the lesson clip and the engagement with the more technical aspects of AVAnnotate. ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Students will work with the Beecher “Criminal Syndicalism” recording to better understand the process and value of audio annotations. They will use these annotations to help them better engage with the Beecher audio archival material, with the possibility of presenting their annotations in their own AVAnnotate project. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "N.B.: ",
+          "bold": true
+        },
+        {
+          "text": "This lesson plan includes options for either students or instructors to upload annotations to AVAnnotate, depending on whatever the instructor may prefer. If instructors are planning to create their own AVAnnotate project, please be sure to thoroughly review "
+        },
+        {
+          "type": "link",
+          "url": "https://avannotate.github.io/documentation/",
+          "children": [
+            {
+              "text": "AVAnnotate’s documentation"
+            }
+          ]
+        },
+        {
+          "text": " for helpful resources. Though AVAnnotate hosts no information, please be sure to check your school’s acceptable use policies regarding web-based applications (here, AVAnnotate and GitHub, which AVAnnotate uses to present the annotations). We have also included a potential extension activity using "
+        },
+        {
+          "type": "link",
+          "url": "https://web.hypothes.is/",
+          "children": [
+            {
+              "text": "Hypothesis"
+            }
+          ]
+        },
+        {
+          "text": " to workshop and comment on student annotations (see “Extension Activity: Commenting Using Hypothesis”)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Targeted Lesson Guidelines",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "(Modified from "
+        },
+        {
+          "type": "link",
+          "url": "https://www2.archivists.org/sites/all/files/GuidelinesForPrimarySourceLiteracy-June2018.pdf",
+          "children": [
+            {
+              "text": "Guidelines for Primary Source Literacy"
+            }
+          ]
+        },
+        {
+          "text": ") "
+        },
+        {
+          "text": "Interpret, Analyze, and Evaluate",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Critically evaluate the perspective of the creator(s) of a primary source, including tone, subjectivity, and biases, and consider how these relate to the original purpose(s) and audience(s) of the source."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Situate a primary source in context by applying knowledge about the time and culture in which it was created; the author or creator; its format, genre, publication history; or related materials in a collection."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "As part of the analysis of available resources, identify, interrogate, and consider the reasons for silences, gaps, contradictions, or evidence of power relationships in the documentary record and how they impact the research process."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Factor physical and material elements into the interpretation of primary sources including the relationship between container (binding, media, or overall physical attributes) and informational content, and the relationship of original sources to physical or digital copies of those sources. Demonstrate historical empathy, curiosity about the past, and appreciation for historical sources and historical actors."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Essential Questions",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What challenges do we face when listening to sensitive archival audio, and how can we engage critically with recordings that contain difficult or emotionally charged content?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "How does creating annotations help us make meaning from complex audio materials, and in what ways can our annotations make these resources more accessible to others?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "How do the Beecher participants' reflections reveal the ways political power can criminalize civic action through confusing legal language, and what do their stories (with their mix of humor and trauma) teach us about memory and collective history?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Objective",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "By the end of this lesson, students will:",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Analyze the Beecher \"Criminal Syndicalism\" recording by applying critical listening strategies to identify general observations, key themes, emotional shifts, and historical context within sensitive and challenging audio material."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Create and present annotations by using the AVAnnotate application to demonstrate how annotation enhances both personal meaning-making and accessibility of archival audio for diverse audiences."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Materials",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Internet-connected computer to present AVAnnotate project and play the Beecher audio using the AVAnnotate project. If students are uploading their own annotations to AVAnnotate, they'll need at least one computer per group of 2-4 students."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Method to record annotations (e.g., Google Sheets, Excel Spreadsheet, paper, etc.). You may choose to use "
+                },
+                {
+                  "type": "link",
+                  "url": "https://docs.google.com/spreadsheets/u/2/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true",
+                  "children": [
+                    {
+                      "text": "this template"
+                    }
+                  ]
+                },
+                {
+                  "text": " provided by AVAnnotate for creating annotations in Google Sheets."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Lesson Plan Agenda",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this synchronous, in-person version of the lesson, it is assumed that you’ll be working in a classroom with at least one laptop that is connected to the internet. This lesson will take 90 min to complete, though it can be split across multiple days."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Again, before using this lesson, please be sure to listen to the full recording to familiarize yourself with its content. While the selected clip does not include the racial slur present elsewhere in the recording, students will still hear participants describing traumatic experiences of arrest and criminalization. Additionally, the male speaker in the first clip uses an outdated term (\"negro\") to describe Black people."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Prepare your students by establishing clear check-in procedures before, during, and after engaging with this material. Consider offering alternative ways to participate, such as working with a different section of the recording, that still help students develop the same annotation and critical listening skills while honoring their individual experiences. Be transparent with students about the nature of the content and create space for them to make informed choices about their participation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lesson Procedure:",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Briefly introduce the recording to the students by activating their prior knowledge (5 min).",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Begin by asking students to think about an important story from their own life. It can be something significant they've told multiple times or an event that shaped them (e.g., a memorable experience, an embarrassing moment, an event that shaped them as a person, etc.). Then, discuss the following:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "numbered-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "If someone asked you to tell that story on the spot, what would it feel like to recall those details?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "How might your telling change depending on who was asking and why?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "What would you want listeners to understand about your experience beyond just the facts of what happened?"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Explain that the way we tell our own stories, especially when prompted by someone else’s questions, reveals much about memory, perspective, and what matters to us. Today, we’ll be listening to a historical audio recording where someone is asking students to recount difficult experiences from their recent past. They'll hear both the questions being asked and how people choose to respond. The students’ job will be to listen carefully and create annotations that capture their own process of making meaning from these stories. These annotations will help others better access and understand these important historical voices. "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Then, read the following to students. Be sure you discuss with them what you’d like for them to do if they feel overwhelmed or uncomfortable (3 min)",
+                  "bold": true
+                },
+                {
+                  "text": ":"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "The recording we’ll be working with today is from the "
+                },
+                {
+                  "type": "link",
+                  "url": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1",
+                  "children": [
+                    {
+                      "text": "“‘Criminal Syndicalism’ case, McComb, Mississippi (Side 1)”"
+                    }
+                  ]
+                },
+                {
+                  "text": " recording from the "
+                },
+                {
+                  "type": "link",
+                  "url": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1",
+                  "children": [
+                    {
+                      "text": "John Beecher Sound Recordings Collection"
+                    }
+                  ]
+                },
+                {
+                  "text": " at the "
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.hrc.utexas.edu/",
+                  "children": [
+                    {
+                      "text": "University of Texas’s Harry Ransom Center"
+                    }
+                  ]
+                },
+                {
+                  "text": ". This recording was recorded on October 19, 1964 by John Beecher and his wife, Barbara. The recording begins with John Beecher, a writer and activist, and members of the Council of Federated Organizations (COFO) meeting with Black high school students and their parents after these students were released from jail in McComb, Mississippi on charges of criminal syndicalism, in which the students have been falsely accused of damaging property by throwing a brick. "
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "In the lesson, we’re going to be listening to two clips: one where a member of the COFO is speaking to students about the charges they faced and the importance of voting before they begin asking them about their experiences (from :11-4:15), and the other where Beecher asks the students if they had recreational privileges while in jail and some of the conditions they faced (from 14:07-15:37)."
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "Please note:",
+                  "bold": true
+                },
+                {
+                  "text": " You will hear real people describing traumatic events from their lives in response to direct questioning. While the clip selected for this lesson does not include all sensitive content from the full recording, you will hear: descriptions of arrest, incarceration, and the criminal justice system; an outdated term (\"negro\") used by one speaker to describe Black people; moments where speakers describe feeling dehumanized and targeted by authorities."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Now, tell students that you’re about to play the two lesson clips (below). Before you play the clip, tell students you’ll ask them to share one thing they noticed and one thing they wondered about each clip. After you play the clip, discuss the students’ observations and wonderings (10 min)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Now, provide the following context, either in the form of a lecture or as material for students to read (5 min):"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What is happening around this time? ",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "- October 1, 1962: James Meredith became the first Black student to attend the University of Mississippi in 1962, desegregating the university and setting off a series of violent riots in protest."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "- 1964: "
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.crmvet.org/info/mccomb1964.pdf",
+                  "children": [
+                    {
+                      "text": "List of Civil Rights Incidents in McComb, Mississippi"
+                    }
+                  ]
+                },
+                {
+                  "text": ", including bombings of Black homes and businesses."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "- October 19, 1964: This audio was recorded after a series of protests led to the arrest of a group of black high school students and members of the Council of Federated Organizations (who we hear in the recording after their release)."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "- July 2, 1964: The Civil Rights Act of 1964 was signed."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "- August 6, 1965: The Voting Rights Act of 1965 went into effect."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What is criminal syndicalism?",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "italic": true,
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.crmvet.org/docs/ms_laws64-c.pdf",
+                  "children": [
+                    {
+                      "text": "Passed in 1964, "
+                    }
+                  ]
+                },
+                {
+                  "text": "“Senate Bill 2027 prohibits ‘criminal syndicalism,’ defined as doctrine or precept which advocates, teaches or aids and abets the commission of crime…violence and force…as a means of accomplishing or affecting a change in agricultural or industrial ownership or control. or in affecting any political or social change or for profit. Any person who \"advocates, instigates, suggests, teaches, etc.  ‘criminal syndicalism’ or '’’attempts to justify it’ is guilty of a felony.” "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Who is John Beecher?",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "John Beecher was a descendant of the author Harriet Beecher Stowe and was a poet, civil rights activist, and journalist. He speaks in our second lesson clip."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What is the COFO? ",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Council of Federated Organizations (COFO) was first formed in 1961 to support jailed Freedom Riders. In 1962, it reorganized to an umbrella organization to avoid inter-organizational conflict and facilitate funds and encourage grassroots activism towards voter education and registration in Mississippi. In the 1960s, COFO field workers (the majority of whom were college-age Mississippians) organized many voter registration projects–as our Beecher recording captures. For more information, see the "
+                },
+                {
+                  "type": "link",
+                  "url": "https://snccdigital.org/inside-sncc/alliances-relationships/cofo/",
+                  "children": [
+                    {
+                      "text": "Student Nonviolent Coordinating Committee’s Page on the COFO"
+                    }
+                  ]
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "With this context, play the recording again. ",
+                  "bold": true
+                },
+                {
+                  "text": "Ask students’ to consider: What questions were answered? What else did you notice? What do you want to know more about now? "
+                },
+                {
+                  "text": "(10 min)",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "After the recording, discuss the students’ observations, ",
+                  "bold": true
+                },
+                {
+                  "text": "pulling out common strands. Use these common strands to introduce annotation and annotation categories. Explain that annotation is a way of capturing and organizing the meaning-making work they've already begun in our conversations."
+                },
+                {
+                  "text": " (10 min)",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Split students into two different groups: Group A, responsible for listening to Lesson Clip #1; Group B, responsible for listening to Lesson Clip #2. Within these groups, split the students up into groups of 2-4, where every student in one group is listening to the same clip."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "In the method of your choice (Google Sheet, pen and paper, etc.), explain to students that they’ll annotate their assigned clips in groups. They will need to create at least 5 annotations per group. For their annotations, they’ll need at least: a start time in min:sec and an annotation. It is up to them what that annotation looks like or if they’d like to sort their annotations into groups. Use their discussion to help them initially brainstorm some potential annotations or annotation groups."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Students should now annotate their assigned clip in groups. (15 min)",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "As students annotate, walk around. Be careful not to speak to students as they listen to the clip. You may guide students towards annotation group based on their annotation or ask them why they chose to annotate a moment a certain way."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "If you run out of time, this would be a good stopping point for the lesson. The lesson can easily be continued by presenting their annotations next class."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "After students finish their annotations, have them present their annotations to the other group",
+                  "bold": true
+                },
+                {
+                  "text": " (so students in Group A will share their annotations with a similar sized group in Group B) "
+                },
+                {
+                  "text": "(15-30 min).",
+                  "bold": true
+                },
+                {
+                  "text": " "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "If you are having your students upload their annotations to AVAnnotate, have them work in their groups to create their project in AVAnnotate and upload their annotations. Be sure you walk around for technical assistance. If you choose to do this, students will need at least one GitHub account to access AVAnnotate."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "If you are uploading your students’ annotations to AVAnnotate, have them share your annotations with you and upload to a class AVAnnotate project (though the method of presentation/organization is up to you)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Once the annotations are added to AVAnnotate, have Group A present their Annotations to Group B and vice versa. Have them discuss:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "numbered-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Others’ annotation choices vs. yours. Consider discussing: Did you transcribe? If so, did you transcribe the same thing? Why/why not? "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Language and organization of annotations. Consider discussing: Why did one group choose to organize their annotations differently than the other? Would that change how someone engages with the project?"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Finally, bring the class together for a final reflection (10 min).",
+                  "bold": true
+                },
+                {
+                  "text": " Discuss:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "What was the most engaging part of listening to this recording for you? The most challenging? What did you do to manage?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "How did the process of creating annotations change the way you listened to or understood the recording? How will they impact how someone else listens to the recording?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "What struck you most about how the recordings, separately and when put together? What did you learn about the power of language, both in sharing experiences and as a way to weaponize power? "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "What is one thing you can take from this recording into your life today?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }
@@ -17,7 +1059,7 @@
   "slug": "synchronous-lesson-in-person",
   "created_at": "2025-11-04T04:28:25.983Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-04T04:28:41.451Z",
+  "updated_at": "2025-11-04T05:48:59.883Z",
   "updated_by": "kywark",
   "parent": "b6ceebd1-1047-41a6-a463-ed8e03440c3e"
 }
