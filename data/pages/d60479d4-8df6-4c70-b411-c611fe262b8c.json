@@ -576,7 +576,66 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Now, tell students that you’re about to play the two lesson clips (below). Before you play the clip, tell students you’ll ask them to share one thing they noticed and one thing they wondered about each clip. After you play the clip, discuss the students’ observations and wonderings (10 min)."
+                  "text": "Now, tell students that you’re about to play the two lesson clips (below).",
+                  "bold": true
+                },
+                {
+                  "text": " Before you play the clip, tell students you’ll ask them to share one thing they noticed and one thing they wondered about each clip. After you play the clip, discuss the students’ observations and wonderings"
+                },
+                {
+                  "text": " (10 min).",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "includes": [
+                "media"
+              ],
+              "event1": {
+                "uuid": "68a1d1ef-129a-4b8f-8d46-3ae32bf555da",
+                "start": 11,
+                "end": 255,
+                "file": "e08a931d-b954-4041-a7d0-4fe058e10f9e",
+                "type": "Audio"
+              },
+              "event2": {
+                "uuid": "7a4e4b51-345d-4a50-ae75-fd2f5dcca34a",
+                "start": 847,
+                "end": 937,
+                "file": "5cd674f4-e39b-49cf-8363-13d4f6463152",
+                "type": "Audio"
+              },
+              "type": "event-comparison",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             }
@@ -589,7 +648,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Now, provide the following context, either in the form of a lecture or as material for students to read (5 min):"
+                  "text": "Now, provide the following context, either in the form of a lecture or as material for students to read (5 min)",
+                  "bold": true
+                },
+                {
+                  "text": ":"
                 }
               ]
             },
@@ -1063,7 +1126,7 @@
   "slug": "synchronous-lesson-in-person",
   "created_at": "2025-11-04T04:28:25.983Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-04T05:55:52.923Z",
+  "updated_at": "2025-11-04T05:58:12.836Z",
   "updated_by": "kywark",
   "parent": "b6ceebd1-1047-41a6-a463-ed8e03440c3e"
 }
