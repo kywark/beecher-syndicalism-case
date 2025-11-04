@@ -116,7 +116,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Transcriptions by Kylie Warkentin.",
+          "italic": true
         }
       ]
     },
@@ -131,12 +132,12 @@
   ],
   "created_at": "2025-08-19T02:44:30.761Z",
   "created_by": "kywark",
-  "title": "The Audio: \"Syndicalism\" Case",
-  "updated_at": "2025-11-04T14:31:15.608Z",
+  "title": "The Audio: \"Criminal Syndicalism\" Case",
+  "updated_at": "2025-11-04T15:09:54.772Z",
   "updated_by": "kywark",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "the-audio-syndicalism-case"
+  "slug": "the-audio-criminal-syndicalism-case"
 }
