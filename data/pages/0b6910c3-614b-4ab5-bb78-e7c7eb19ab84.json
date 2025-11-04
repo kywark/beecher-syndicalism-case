@@ -212,15 +212,15 @@
       ]
     }
   ],
-  "title": "2. First Listen (15 min)",
+  "title": "Module 2: First Listen (15 min)",
   "parent": "7a40aa7c-26e3-41b0-948c-a06936c109a0",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "2-first-listen-15-min",
+  "slug": "module-2-first-listen-15-min",
   "created_at": "2025-08-19T03:03:21.241Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-04T06:26:43.559Z",
+  "updated_at": "2025-11-04T06:49:36.535Z",
   "updated_by": "kywark"
 }
