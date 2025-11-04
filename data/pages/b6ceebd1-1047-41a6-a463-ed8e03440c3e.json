@@ -4,7 +4,128 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "We have created two different lesson plans for your use with the Beecher \"Criminal Syndicalism\" case: one synchronous and in person, and one asynchronous and online. Both versions of the lesson are written towards students in high school (Grades 9-12)."
+          "text": "We have created two different lesson plans for your use with the Beecher \"Criminal Syndicalism\" case: one synchronous and in person, and one asynchronous and online. Both versions of the lesson are written towards students in high school (Grades 9-12), though they can be adapted for higher and lower grades by adjusting the length of the lesson clip and the engagement with the more technical aspects of AVAnnotate. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Description:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Students will work with the Beecher “Criminal Syndicalism” recording to understand how audio annotations can help them better engage with historical audio recordings. They will use these annotations to help them better engage with the Beecher audio archival material, with the possibility of presenting their annotations in their own AVAnnotate project."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "N.B.: This lesson plan includes options for either students or instructors to upload annotations to AVAnnotate, depending on whatever the instructor may prefer. If instructors are planning to create their own AVAnnotate project, please be sure to thoroughly review "
+        },
+        {
+          "type": "link",
+          "url": "https://avannotate.github.io/documentation/",
+          "children": [
+            {
+              "text": "AVAnnotate’s documentation"
+            }
+          ]
+        },
+        {
+          "text": " for helpful resources. Though AVAnnotate hosts no information, please be sure to check your school’s acceptable use policies regarding web-based applications (here, AVAnnotate and GitHub, which AVAnnotate uses to present the annotations). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This lesson could easily be fit into any English or Social Studies classroom. ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "bold": true,
+              "text": "For English classrooms,"
+            },
+            {
+              "text": " consider pairing this lesson with works related to the Civil Rights Movement or Black identity in America (e.g., rhetorical analysis of the \"I Have a Dream\" speech by Martin Luther King Jr. and \"The Ballet or the Bomb\" speech by Malcolm X, poetry by Langston Hughes and Gwendolyn Brook); works thematically engaging with how an individual has conflict with their society (e.g., "
+            },
+            {
+              "text": "The Handmaid's Tale ",
+              "italic": true
+            },
+            {
+              "text": "by Margaret Atwood, "
+            },
+            {
+              "text": "Fahrenheit 451",
+              "italic": true
+            },
+            {
+              "text": " by Ray Bradbury); or any unit that asks students to analyze rhetoric or tone."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "For Social Studies classrooms",
+              "bold": true
+            },
+            {
+              "text": ", consider pairing this lesson with units exploring the Civil Rights Movement or any rebellion unit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
         }
       ]
     }
@@ -17,6 +138,6 @@
   "slug": "lesson-plans-for-instructors",
   "created_at": "2025-08-19T02:58:46.233Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-04T06:47:11.052Z",
+  "updated_at": "2025-11-04T15:03:04.449Z",
   "updated_by": "kywark"
 }
