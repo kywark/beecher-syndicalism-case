@@ -22,35 +22,43 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This project is an educational example of working with sensitive audio created by Bethany Radcliff and Kylie Warkentin using the “‘Criminal Syndicalism’ Case, McComb, Mississippi (Side 1)” recording from the John Beecher Sound Recordings Collection at the University of Texas’s Harry Ransom Center. Included inside is background research of the social/historical context of the recording (including full transcription of the audio), a teacher lesson plan, an asynchronous student-facing lesson, and an example collaborative student project. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "Annotation has always been a key tool in making meaning from texts. As our definition of texts has broadened to reflect the changing media landscape, "
+        },
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "type": "link",
+          "url": "https://mitpressonpubpub.mitpress.mit.edu/pub/syyor4ra/release/1?readingCollection=31668090",
+          "children": [
+            {
+              "text": "so too has our understanding of annotation practices evolved"
+            }
+          ]
+        },
         {
-          "text": "Annotation, an important paratextual genre, has expanded past the typical text-based work in recent years to include things like web-pages and online resources. Further, the rising popularity of social annotation movements in educational practices (especially during the move to more interactive, virtual learning activities as a result of the COVID-19 pandemic), means that understanding and using annotation "
+          "text": ". Beyond marginalia in books, scholars and educators alike have utilized annotation to light up texts such as web-pages, online resources, and "
+        },
+        {
+          "type": "link",
+          "url": "https://labs.loc.gov/work/experiments/annotation/",
+          "children": [
+            {
+              "text": "digitized primary sources"
+            }
+          ]
+        },
+        {
+          "text": ". Further, the COVID-19 pandemic accelerated the already rising popularity of social annotation movements in educational practices. Thus, understanding and using annotation as an effective, dynamic tool for learning "
         },
         {
           "type": "link",
           "url": "https://www.learntechlib.org/primary/p/216246/",
           "children": [
             {
-              "text": "is more relevant than ever"
+              "text": "remains an essential skill"
             }
           ]
         },
         {
-          "text": ". Audio annotation is particularly important when that audio material contains sensitive or traumatic content. This lesson serves as an introduction to annotation as a method for understanding sensitive audiovisual resources, structuring annotations in a machine-readable format, and uploading and presenting audio annotations using the AVAnnotate application. Throughout the lesson, we have included suggestions for modifying this lesson for use in a classroom setting."
+          "text": ". This potential is especially powerful for audio materials, where materials such as oral histories and interviews can be difficult to access and navigate, particularly when they contain sensitive content for classroom use. "
         }
       ]
     },
@@ -66,47 +74,41 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "To use this project as a lesson, ",
+          "text": "This project is an educational example of working with and annotating sensitive audio using the ",
           "bold": true
         },
         {
-          "text": "students will navigate to \"Sample Lesson (for Students)\""
-        },
-        {
           "type": "link",
-          "url": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/",
+          "url": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/",
           "children": [
             {
-              "text": ""
+              "text": "“‘Criminal Syndicalism’ Case, McComb, Mississippi (Side 1)”",
+              "bold": true
             }
           ]
         },
         {
-          "text": " and, starting with “1. Considering Experiences with ‘Criminal Syndicalism’ Audio,” complete each step and the activities listed therein chronologically. Instructors should complete all the steps listed in the \"Before the Lesson\" section of the \"Sample Lesson Plan (for Instructors)\""
+          "text": " recording from the John Beecher Sound Recordings Collection at the University of Texas’s Harry Ransom Center",
+          "bold": true
         },
         {
-          "type": "link",
-          "url": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/lesson-introduction-and-overview-instructor-#Before",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
+          "text": " (created by Bethany Radcliff and Kylie Warkentin in 2021; updated by Kylie Warkentin in 2025). Included inside is background research of the social/historical context of the recording (including full transcription of the audio), a teacher lesson plan, an asynchronous student-facing lesson, and an example collaborative student project. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": " and read through the full outline of the lesson to prepare the lesson and check permissions"
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "link",
-          "url": "https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/lesson-introduction-and-overview-instructor-#Beecher",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": ". Though this introduction has been written with the instructor(s) in mind, each activity is written to prompt students directly. After students complete all the steps in this project, instructors will upload student annotations to AVAnnotate in their own project."
+          "text": "To use this project as a lesson, students will navigate to \"Sample Lesson (for Students)\" and, starting with “1. Considering Experiences with ‘Criminal Syndicalism’ Audio,” complete each step and the activities listed therein chronologically. Instructors should complete all the steps listed in the \"Before the Lesson\" section of the \"Sample Lesson Plan (for Instructors)\" and read through the full outline of the lesson to prepare the lesson and check permissions. Though this introduction has been written with the instructor(s) in mind, each activity is written to prompt students directly. After students complete all the steps in this project, instructors will upload student annotations to AVAnnotate in their own project. Throughout the lesson, we have also included suggestions for modifying this lesson for use in a classroom setting."
         }
       ]
     }
@@ -119,6 +121,6 @@
   "slug": "home-page",
   "created_at": "2025-10-08T11:24:28.625Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-03T06:27:20.328Z",
+  "updated_at": "2025-11-04T02:43:18.920Z",
   "updated_by": "kywark"
 }
