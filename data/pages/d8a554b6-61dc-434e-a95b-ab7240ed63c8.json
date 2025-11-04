@@ -4,8 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "1. What were your experiences listening to the audio before class?",
-          "textSize": "heading-three"
+          "text": "Using your instructor's assigned reflection method, answer the following:"
         }
       ]
     },
@@ -13,7 +12,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Write at least three (3) sentences. Consider:"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Begin by thinking about an important story from your own life. It can be something significant you've told multiple times or an event that shaped you (e.g., a memorable experience, an embarrassing moment, an event that shaped you as a person, etc.). Then, consider the following:"
         }
       ]
     },
@@ -27,7 +34,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Did anything surprise or interest you?"
+                  "text": "If someone asked you to tell that story on the spot, what would it feel like to recall those details?"
                 }
               ]
             }
@@ -40,7 +47,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "What were your first impressions of the content of the recording? The recording itself?"
+                  "text": "How might your telling change depending on who was asking and why?"
                 }
               ]
             }
@@ -53,7 +60,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Why might we ask you to listen to this audio in particular?"
+                  "text": "What would you want listeners to understand about your experience beyond just the facts of what happened?"
                 }
               ]
             }
@@ -65,8 +72,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "2. What do you want to know more about?",
-          "textSize": "heading-three"
+          "text": "The way we tell our own stories, especially when prompted by someone else's questions, reveals much about memory, perspective, and what matters to us. ",
+          "bold": true
         }
       ]
     },
@@ -74,20 +81,28 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Note at least two (2) things."
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Today, you'll be listening to a historical audio recording where someone is asking students to recount difficult experiences from their recent past. You'll hear both the questions being asked and how people choose to respond. Your job will be to listen carefully and create annotations that capture your own process of making meaning from these stories. These annotations will help others better access and understand these important historical voices."
         }
       ]
     }
   ],
-  "title": "1. Considering Experiences with 'Criminal Syndicalism' Audio",
+  "title": "Module 1: Introduction & Reflection (5 min)",
   "parent": "7a40aa7c-26e3-41b0-948c-a06936c109a0",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "1-considering-experiences-with-criminal-syn",
+  "slug": "module-1-introduction-and-reflection-5-min",
   "created_at": "2025-08-19T03:02:45.094Z",
   "created_by": "kywark",
-  "updated_at": "2025-08-23T01:43:53.795Z",
+  "updated_at": "2025-11-04T06:23:43.267Z",
   "updated_by": "kywark"
 }
