@@ -462,7 +462,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Module 2: Content Warning and Recording Introduction (3 min)",
+          "text": "Module 2: First Listen (3 min)",
           "bold": true
         }
       ]
@@ -552,19 +552,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "block-quote",
       "children": [
         {
-          "text": "Module 3: First Listen (10 min)",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Instruct students to listen to both lesson clips (below, also reproduced in the asynchronous lesson) and then respond in writing to the following prompts:"
+          "text": "Then, listen to BOTH lesson clips below. Respond in writing to the following prompts:"
         }
       ]
     },
@@ -575,15 +566,15 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Share one thing you noticed about each clip."
-                }
-              ]
+              "text": "Share one thing you noticed about each clip."
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
         {
           "type": "list-item",
           "children": [
@@ -652,7 +643,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Module 4: Historical Context (5 min)",
+          "text": "Module 3: Historical Context & Second Listen (15 min)",
           "bold": true
         }
       ]
@@ -859,15 +850,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Module 5: Second Listen and Reflection (10 min)",
+          "text": "",
           "bold": true
         }
       ]
@@ -928,7 +911,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Module 6: Introduction to Annotation (15 min)",
+          "text": "Module 4: Annotation (15 min)",
           "bold": true
         }
       ]
@@ -995,7 +978,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Module 8: Upload and Review (15-30 min)",
+          "text": "Module 5: Present Annotations & Reflect (25 min)",
           "bold": true
         }
       ]
@@ -1059,16 +1042,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Module 9: Final Reflection (10 min)",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Have students respond in writing to the following reflection questions:"
+          "text": "Finally, have students respond in writing to the following reflection questions:"
         }
       ]
     },
@@ -1138,7 +1112,7 @@
   "slug": "asynchronous-lesson-plan",
   "created_at": "2025-11-04T04:27:31.744Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-04T06:21:32.733Z",
+  "updated_at": "2025-11-04T06:38:58.060Z",
   "updated_by": "kywark",
   "parent": "b6ceebd1-1047-41a6-a463-ed8e03440c3e"
 }
