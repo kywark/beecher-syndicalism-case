@@ -82,7 +82,8 @@
       "children": [
         {
           "text": "Targeted Lesson Guidelines",
-          "textSize": "heading-four"
+          "textSize": "heading-four",
+          "bold": true
         }
       ]
     },
@@ -172,7 +173,8 @@
       "children": [
         {
           "text": "Essential Questions",
-          "textSize": "heading-four"
+          "textSize": "heading-four",
+          "bold": true
         }
       ]
     },
@@ -225,7 +227,8 @@
       "children": [
         {
           "text": "Objective",
-          "textSize": "heading-four"
+          "textSize": "heading-four",
+          "bold": true
         }
       ]
     },
@@ -274,7 +277,8 @@
       "children": [
         {
           "text": "Materials",
-          "textSize": "heading-four"
+          "textSize": "heading-four",
+          "bold": true
         }
       ]
     },
@@ -1126,7 +1130,7 @@
   "slug": "synchronous-lesson-in-person",
   "created_at": "2025-11-04T04:28:25.983Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-04T05:58:12.836Z",
+  "updated_at": "2025-11-04T06:48:07.516Z",
   "updated_by": "kywark",
   "parent": "b6ceebd1-1047-41a6-a463-ed8e03440c3e"
 }
