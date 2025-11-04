@@ -4,6 +4,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "The following is a sample collaborative student project that could be produced following either lesson plan. Please note the differences in annotations and annotation groups (i.e., tags)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -35,7 +43,7 @@
   "created_by": "kywark",
   "title": "Sample Collaborative Student Project",
   "slug": "sample-collaborative-student-project",
-  "updated_at": "2025-11-04T04:29:38.681Z",
+  "updated_at": "2025-11-04T14:35:56.787Z",
   "updated_by": "kywark",
   "autogenerate": {
     "enabled": false,
