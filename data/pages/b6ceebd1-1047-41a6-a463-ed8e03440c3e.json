@@ -40,21 +40,8 @@
           ]
         },
         {
-          "text": "."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": ".\n\n"
+        },
         {
           "text": "Though this information is reproduced above the lesson clip in this project, we recommend instructor(s) share the following information about the audio with students in advance of the lesson so students may be better prepared to work with the sensitive material or express any discomfort that may prevent them from engaging with the lesson.",
           "bold": true
@@ -78,7 +65,43 @@
           "bold": true
         },
         {
-          "text": " This recording was recorded October 19, 1964 by John Beecher and his wife, Barbara. The recording begins with John Beecher and members of the Council of Federated Organizations (COFO) meeting with Black high school students and their parents after these students were released from jail in McComb, Mississippi on charges of criminal syndicalism, in which it seems the students have been falsely accused of damaging property by throwing a brick. Beecher speaks with the group about the importance of voting and fighting for equal treatment in the voting process. A white arrested member of COFO discusses how his experience in jail was different than that of the Black students, how he was released without bond, and that his release was sooner. The students discuss the conditions in the jail and the treatment by policemen and guards. The parents of the students discuss how they were given limited interaction with their children, and how officers made visits a challenge."
+          "text": " This is the "
+        },
+        {
+          "type": "link",
+          "url": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1",
+          "children": [
+            {
+              "text": "“‘Criminal Syndicalism’ case, McComb, Mississippi (Side 1)”"
+            }
+          ]
+        },
+        {
+          "text": " recording from the "
+        },
+        {
+          "type": "link",
+          "url": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1",
+          "children": [
+            {
+              "text": "John Beecher Sound Recordings Collection"
+            }
+          ]
+        },
+        {
+          "text": " at the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.hrc.utexas.edu/",
+          "children": [
+            {
+              "text": "University of Texas’s Harry Ransom Center"
+            }
+          ]
+        },
+        {
+          "text": ". This recording was recorded on October 19, 1964 by John Beecher and his wife, Barbara. The recording begins with John Beecher and members of the Council of Federated Organizations (COFO) meeting with Black high school students and their parents after these students were released from jail in McComb, Mississippi on charges of criminal syndicalism, in which the students have been falsely accused of damaging property by throwing a brick. The members of the COFO discuss with the group the importance of voting and organizing for equal treatment. Dennis Sweeney, a white member of the COFO who was arrested with the teens, acknowledges the difference between his experience in jail vs. that of the Black students (e.g., no bail posting required, released sooner). The members of the COFO and John Beecher then ask the students and parents about their experiences. The parents of the students discuss how they were given limited interaction with their children, and how officers made visits a challenge. The students discuss the conditions in the jail and the treatment by policemen and guards. "
         }
       ]
     },
@@ -98,7 +121,7 @@
           "bold": true
         },
         {
-          "text": "The clip we will discuss in class is 14:07-15:37. In this portion of the recording, Beecher asks the students if they had recreational privileges while in jail, to which the students reply they could not even leave the cell. Beecher asks about food given to them in prison, which the students say was often cold pork and beans from the can, and that they were denied coffee, and given a small breakfast. The students also discuss how the guards/officers were dismissive of their singing and would threaten to drag their mattresses out and make the students sleep on the concrete if they continued sleeping."
+          "text": "In the lesson, students will only listen to a portion of the full audio, from 14:07-15:37. In this portion of the recording, Beecher asks the students if they had recreational privileges while in jail, to which the students reply they could not even leave the cell. Beecher asks about food given to them in prison, which the students say was often cold pork and beans from the can, and that they were denied coffee, and given a small breakfast. The students also discuss how the guards/officers were dismissive of their singing and would threaten to drag their mattresses out and make the students sleep on the concrete if they continued singing."
         }
       ]
     },
@@ -118,7 +141,7 @@
           "bold": true
         },
         {
-          "text": " In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting white police officers. These instances have been noted in the annotations associated with the audio."
+          "text": " In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting police officers and trustees. These instances have been noted in the annotations associated with the audio."
         }
       ]
     },
@@ -626,6 +649,6 @@
   "slug": "lesson-plan-for-instructors",
   "created_at": "2025-08-19T02:58:46.233Z",
   "created_by": "kywark",
-  "updated_at": "2025-08-23T02:03:23.900Z",
+  "updated_at": "2025-11-04T03:22:35.496Z",
   "updated_by": "kywark"
 }
