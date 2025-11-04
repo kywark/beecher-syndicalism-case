@@ -74,8 +74,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This project is an educational example of working with and annotating sensitive audio using the ",
+          "text": "This project ",
           "bold": true
+        },
+        {
+          "text": "(created by Bethany Radcliff and Kylie Warkentin in 2021; updated by Kylie Warkentin in 2025)"
+        },
+        {
+          "bold": true,
+          "text": " is an educational example of working with and annotating sensitive audio using the "
         },
         {
           "type": "link",
@@ -88,11 +95,11 @@
           ]
         },
         {
-          "text": " recording from the John Beecher Sound Recordings Collection at the University of Texas’s Harry Ransom Center",
+          "text": "recording from the John Beecher Sound Recordings Collection at the University of Texas’s Harry Ransom Center",
           "bold": true
         },
         {
-          "text": " (created by Bethany Radcliff and Kylie Warkentin in 2021; updated by Kylie Warkentin in 2025). Included inside is background research of the social/historical context of the recording (including full transcription of the audio), a teacher lesson plan, an asynchronous student-facing lesson, and an example collaborative student project. "
+          "text": ". In this recording, John Beecher and members of the Council of Federated Organizations (COFO) meet with high school students arrested on charge of criminal syndicalism, and their parents, after their release from jail in McComb, Mississippi in October 19, 1964. Included inside this project is background research of the social/historical context of the recording (including full transcription of the audio), a teacher lesson plan, an asynchronous student-facing lesson, and an example collaborative student project. The recording itself  "
         }
       ]
     },
@@ -121,6 +128,6 @@
   "slug": "home-page",
   "created_at": "2025-10-08T11:24:28.625Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-04T02:43:18.920Z",
+  "updated_at": "2025-11-04T02:53:05.206Z",
   "updated_by": "kywark"
 }
