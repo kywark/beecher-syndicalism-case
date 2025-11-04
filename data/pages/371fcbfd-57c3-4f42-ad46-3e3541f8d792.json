@@ -4,48 +4,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
+          "text": "Please be sure to read all of the following information before playing the recording.",
           "bold": true
         }
       ]
     },
     {
-      "uuid": "68a1d1ef-129a-4b8f-8d46-3ae32bf555da",
-      "includes": [
-        "annotations",
-        "label",
-        "media",
-        "description"
-      ],
-      "type": "event",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "bold": true,
-          "text": "Please be sure to read all of the following information before playing the recording."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": "\n"
         }
       ]
     },
@@ -89,7 +57,58 @@
           ]
         },
         {
-          "text": ". This recording was recorded on October 19, 1964 by John Beecher and his wife, Barbara. The recording begins with John Beecher and members of the Council of Federated Organizations (COFO) meeting with Black high school students and their parents after these students were released from jail in McComb, Mississippi on charges of criminal syndicalism, in which the students have been falsely accused of damaging property by throwing a brick. The members of the COFO discuss with the group the importance of voting and organizing for equal treatment. Dennis Sweeney, a white member of the COFO who was arrested with the teens, acknowledges the difference between his experience in jail vs. that of the Black students (e.g., no bail posting required, released sooner). The members of the COFO and John Beecher then ask the students and parents about their experiences. The parents of the students discuss how they were given limited interaction with their children, and how officers made visits a challenge. The students discuss the conditions in the jail and the treatment by policemen and guards. \n\nIn the lesson, students will only listen to a portion of the full audio, from 14:07-15:37. In this portion of the recording, Beecher asks the students if they had recreational privileges while in jail, to which the students reply they could not even leave the cell. Beecher asks about food given to them in prison, which the students say was often cold pork and beans from the can, and that they were denied coffee, and given a small breakfast. The students also discuss how the guards/officers were dismissive of their singing and would threaten to drag their mattresses out and make the students sleep on the concrete if they continued singing."
+          "text": ". This recording was recorded on October 19, 1964 by John Beecher and his wife, Barbara. The recording begins with John Beecher and members of the Council of Federated Organizations (COFO) meeting with Black high school students and their parents after these students were released from jail in McComb, Mississippi on charges of criminal syndicalism, in which the students have been falsely accused of damaging property by throwing a brick. The members of the COFO discuss with the group the importance of voting and organizing for equal treatment. Dennis Sweeney, a white member of the COFO who was arrested with the teens, acknowledges the difference between his experience in jail vs. that of the Black students (e.g., no bail posting required, released sooner). The members of the COFO and John Beecher then ask the students and parents about their experiences. The parents of the students discuss how they were given limited interaction with their children, and how officers made visits a challenge. The students discuss the conditions in the jail and the treatment by policemen and guards. \n\nIn the lesson, students will only listen to a portion of the full audio, from 14:07-15:37, though we recommend instructors listen to the recording in full before delivering the lesson. In the lesson clip, Beecher asks the students if they had recreational privileges while in jail, to which the students reply they could not even leave the cell. Beecher asks about food given to them in prison, which the students say was often cold pork and beans from the can, and that they were denied coffee, and given a small breakfast. The students also discuss how the guards/officers were dismissive of their singing and would threaten to drag their mattresses out and make the students sleep on the concrete if they continued singing."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Please note: ",
+          "bold": true
+        },
+        {
+          "text": "In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting police officers and trustees. We have annotated this below for your awareness, both in the \"Content Warnings\" annotation set and the \"Full Transcription\" annotation set.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Listening to the second side of the recording is not necessary for this lesson and will not be discussed in this lesson, but as a warning, it includes multiple racial slurs, at 4:58, said by a white man; at 5:48 by a man quoting a police officer; at 7:00, 7:04, 7:08, 7:09, by a woman quoting a police officer; at 9:15 by a man quoting a police officer; at 11:42, 11:57, and 12:32 by a woman quoting a police officer. Explicit language is also used by a woman quoting a police officer at 10:48."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "68a1d1ef-129a-4b8f-8d46-3ae32bf555da",
+      "includes": [
+        "annotations",
+        "label",
+        "media",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -105,19 +124,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Please note:",
-          "bold": true
-        },
-        {
-          "text": " In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting police officers and trustees. We have annotated this above for your awareness.\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Listening to the second side of the recording is not necessary for this lesson and will not be discussed in this lesson, but as a warning, it includes multiple racial slurs, at 4:58, said by a white man; at 5:48 by a man quoting a police officer; at 7:00, 7:04, 7:08, 7:09, by a woman quoting a police officer; at 9:15 by a man quoting a police officer; at 11:42, 11:57, and 12:32 by a woman quoting a police officer. Explicit language is also used by a woman quoting a police officer at 10:48."
+          "text": ""
         }
       ]
     }
@@ -125,7 +132,7 @@
   "created_at": "2025-08-19T02:44:30.761Z",
   "created_by": "kywark",
   "title": "The Audio: \"Syndicalism\" Case",
-  "updated_at": "2025-11-04T03:18:10.520Z",
+  "updated_at": "2025-11-04T03:25:14.575Z",
   "updated_by": "kywark",
   "autogenerate": {
     "enabled": false,
