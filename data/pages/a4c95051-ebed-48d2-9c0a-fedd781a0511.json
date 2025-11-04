@@ -78,7 +78,7 @@
           "bold": true
         },
         {
-          "text": "(created by Bethany Radcliff and Kylie Warkentin in 2021; updated by Kylie Warkentin in 2025)"
+          "text": "(originally created by Bethany Radcliff and Kylie Warkentin in 2021; updated and revised by Kylie Warkentin in 2025)"
         },
         {
           "bold": true,
@@ -99,7 +99,60 @@
           "bold": true
         },
         {
-          "text": ". In this recording, John Beecher and members of the Council of Federated Organizations (COFO) meet with high school students arrested on charge of criminal syndicalism, and their parents, after their release from jail in McComb, Mississippi in October 19, 1964. Included inside this project is background research of the social/historical context of the recording (including full transcription of the audio), a teacher lesson plan, an asynchronous student-facing lesson, and an example collaborative student project. The recording itself  "
+          "text": ". In this recording, John Beecher and members of the Council of Federated Organizations (COFO) meet with high school students arrested on charge of criminal syndicalism, and their parents, after their release from jail in McComb, Mississippi in October 19, 1964. Included inside this project is:"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "The full audio",
+              "bold": true
+            },
+            {
+              "text": ", presented with background research of the social/historical context of the recording and a full transcription (\"The Audio\")"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Two (2) lesson plans",
+              "bold": true
+            },
+            {
+              "text": " for instructors to use AVAnnotate and this recording in the classroom, one synchronous (\"Synchronous Lesson Plan (In person)\") and one asynchronous (\"Asynchronous Lesson Plan\")"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "The asynchronous, student-facing lesson",
+              "bold": true
+            },
+            {
+              "text": " that is ready to use in the classroom (\"Asynchronous Lesson (for Students)\")"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "An example student collaborative project ",
+              "bold": true
+            },
+            {
+              "text": "that you could build by the end of either lesson (\"Sample Collaborative Student Project\")"
+            }
+          ]
         }
       ]
     },
@@ -115,7 +168,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "To use this project as a lesson, students will navigate to \"Sample Lesson (for Students)\" and, starting with “1. Considering Experiences with ‘Criminal Syndicalism’ Audio,” complete each step and the activities listed therein chronologically. Instructors should complete all the steps listed in the \"Before the Lesson\" section of the \"Sample Lesson Plan (for Instructors)\" and read through the full outline of the lesson to prepare the lesson and check permissions. Though this introduction has been written with the instructor(s) in mind, each activity is written to prompt students directly. After students complete all the steps in this project, instructors will upload student annotations to AVAnnotate in their own project. Throughout the lesson, we have also included suggestions for modifying this lesson for use in a classroom setting."
+          "text": "To use this project as a lesson,",
+          "bold": true
+        },
+        {
+          "text": " instructor should first review both the synchronous and asynchronous lesson plans to see what best suits theirs students' needs. If you'd like to use the asynchronous version of the lesson, it's already built and ready for use under \"Asynchronous Lesson (for Students).\" Students will simply click on the title and navigate through each module.  "
         }
       ]
     }
@@ -128,6 +185,6 @@
   "slug": "home-page",
   "created_at": "2025-10-08T11:24:28.625Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-04T02:53:05.206Z",
+  "updated_at": "2025-11-04T14:45:36.192Z",
   "updated_by": "kywark"
 }
