@@ -4,7 +4,39 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following is a sample collaborative student project that could be produced following either lesson plan. Please note the differences in annotations and annotation groups (i.e., tags)."
+          "text": "The following is a sample collaborative student project that could be produced following either lesson plan. Please note the differences in annotations and annotation groups (i.e., tags).",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Audio Content Warning:",
+          "bold": true
+        },
+        {
+          "text": " In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting white police officers. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Listening to the second side of the recording is not necessary for this lesson and will not be discussed in this lesson, but as a warning, it includes multiple racial slurs, at 4:58, said by a white man; at 5:48 by a man quoting a police officer; at 7:00, 7:04, 7:08, 7:09, by a woman quoting a police officer; at 9:15 by a man quoting a police officer; at 11:42, 11:57, and 12:32 by a woman quoting a police officer. Explicit language is also used by a woman quoting a police officer at 10:48."
         }
       ]
     },
@@ -43,7 +75,7 @@
   "created_by": "kywark",
   "title": "Sample Collaborative Student Project",
   "slug": "sample-collaborative-student-project",
-  "updated_at": "2025-11-04T14:35:56.787Z",
+  "updated_at": "2025-11-04T14:37:25.238Z",
   "updated_by": "kywark",
   "autogenerate": {
     "enabled": false,
