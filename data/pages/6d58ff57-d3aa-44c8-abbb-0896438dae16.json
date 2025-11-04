@@ -1,28 +1,10 @@
 {
   "content": [
     {
-      "type": "heading-three",
-      "children": [
-        {
-          "text": "1. Log into ",
-          "bold": true
-        },
-        {
-          "text": "Hypothesis",
-          "link": "https://web.hypothes.is",
-          "bold": true
-        },
-        {
-          "text": " using group link.",
-          "bold": true
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
-          "text": "This link should be provided by your instructor."
+          "text": "Your instructor should have let you know if you are uploading annotations to AVAnnotate yourself or if they will be uploading them on your behalf. "
         }
       ]
     },
@@ -35,11 +17,10 @@
       ]
     },
     {
-      "type": "heading-three",
+      "type": "paragraph",
       "children": [
         {
-          "text": "2. Using the GitHub pages site for your class’s projects, look over and comment on other students’ annotations.",
-          "bold": true
+          "text": "If you are uploading your annotations to your own AVAnnotate project, please refer to your instructors directions for naming conventions and format of your project."
         }
       ]
     },
@@ -47,7 +28,32 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Leave at least three (3) annotations per group. Look for:"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "If your annotations will be uploaded by your instructor, please be sure you submit your annotations to your instructor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Once annotations have been added to AVAnnotate, explore the full class project (with annotations from both clips) and respond in writing to the following:",
+          "bold": true
         }
       ]
     },
@@ -58,12 +64,7 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Others’ annotation choices vs. yours"
-                }
-              ]
+              "text": "Compare your annotation choices to others who annotated the same clip. Did people transcribe? If so, did they transcribe the same thing? Why/why not?"
             }
           ]
         },
@@ -71,10 +72,76 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
+              "text": "Look at annotations from the other clip. How did students organize their annotations differently? Would that change how someone engages with the project?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Now, reflect on the following questions:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
               "children": [
                 {
-                  "text": "Language and organization of annotations"
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "What was the most engaging part of listening to this recording for you? The most challenging? What did you do to manage?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "How did the process of creating annotations change the way you listened to or understood the recording? How will they impact how someone else listens to the recording?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "What struck you most about how the recordings, separately and when put together? What did you learn about the power of language, both in sharing experiences and as a way to weaponize power? "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "What is one thing you can take from this recording into your life today?"
+                    }
+                  ]
                 }
               ]
             }
@@ -83,15 +150,15 @@
       ]
     }
   ],
-  "title": "Extension Activity Using Hypothesis (Optional)",
+  "title": "4. Present Annotations & Reflect (25 min)",
   "parent": "7a40aa7c-26e3-41b0-948c-a06936c109a0",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "extension-activity-using-hypothesis-optional",
+  "slug": "4-present-annotations-and-reflect-25-min",
   "created_at": "2025-08-19T03:05:11.538Z",
   "created_by": "kywark",
-  "updated_at": "2025-08-23T01:31:32.602Z",
+  "updated_at": "2025-11-04T06:36:12.279Z",
   "updated_by": "kywark"
 }
