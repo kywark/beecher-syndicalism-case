@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "If your instructor is adding annotations to AVAnnotate themselves, prepare to present your annotations. "
+          "text": "Annotation is a way of capturing and organizing the meaning-making work you've already begun in your reflections. The moments you've noticed here are exactly the kinds of things annotations capture. Now, let’s learn more about annotation by actually doing it! "
         }
       ]
     },
@@ -20,34 +20,134 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "If your instructor is asking you to add annotations to AudiAnnotate yourself(/yourselves), refer to "
+          "text": "Your task:",
+          "bold": true
         },
         {
-          "text": "the documentation",
-          "link": "https://av-annotate.org/how-to-use/"
+          "text": " You'll be annotating one of the two lesson clips. Choose either "
         },
         {
-          "text": "and upload them where directed in "
+          "text": "Lesson Clip #1 (:11-4:15)",
+          "bold": true
         },
         {
-          "text": "AVAnnotate",
-          "link": "https://av-annotate.org"
+          "text": " or "
         },
         {
-          "text": "."
+          "text": "Lesson Clip #2 (14:07-15:37).",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Using your instructor's preferred annotation form (Google Sheet, pen and paper, etc.), "
+        },
+        {
+          "text": "you'll create at least five (5) annotations for your chosen clip.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "For each annotation: ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "You'll need at least a start time in min:sec and an annotation."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "It is up to you what that annotation looks like or if you'd like to sort your annotations into groups. "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Use your reflections from the previous modules to help you brainstorm potential annotations or annotation groups. Feel free to relisten to your clip as many times as you’d like."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media"
+      ],
+      "event1": {
+        "uuid": "68a1d1ef-129a-4b8f-8d46-3ae32bf555da",
+        "start": 11,
+        "end": 255,
+        "file": "e08a931d-b954-4041-a7d0-4fe058e10f9e",
+        "type": "Audio"
+      },
+      "event2": {
+        "uuid": "7a4e4b51-345d-4a50-ae75-fd2f5dcca34a",
+        "start": 845,
+        "end": 937,
+        "file": "5cd674f4-e39b-49cf-8363-13d4f6463152",
+        "type": "Audio"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     }
   ],
-  "title": "4. Presentation",
+  "title": "4. Annotation (15 min)",
   "parent": "7a40aa7c-26e3-41b0-948c-a06936c109a0",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "4-presentation",
+  "slug": "4-annotation-15-min",
   "created_at": "2025-08-19T03:04:28.477Z",
   "created_by": "kywark",
-  "updated_at": "2025-08-23T01:34:12.413Z",
+  "updated_at": "2025-11-04T06:31:49.247Z",
   "updated_by": "kywark"
 }
