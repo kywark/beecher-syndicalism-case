@@ -126,7 +126,7 @@
               "bold": true
             },
             {
-              "text": " for instructors to use AVAnnotate and this recording in the classroom, one synchronous (\"Synchronous Lesson Plan (In person)\") and one asynchronous (\"Asynchronous Lesson Plan\")"
+              "text": " for instructors to use AVAnnotate and this recording in a high school classroom, one synchronous (\"Synchronous Lesson Plan (In person)\") and one asynchronous (\"Asynchronous Lesson Plan\")"
             }
           ]
         },
@@ -185,6 +185,6 @@
   "slug": "home-page",
   "created_at": "2025-10-08T11:24:28.625Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-04T14:45:36.192Z",
+  "updated_at": "2025-11-04T14:46:50.196Z",
   "updated_by": "kywark"
 }
