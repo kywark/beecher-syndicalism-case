@@ -4,11 +4,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "N.B.: ",
-          "bold": true
+          "text": "It's important to place these moments in their social/historical context for greater understanding. "
         },
         {
-          "text": "Though this lesson is presented asynchronously, it’s important that students discuss with one another potential annotation routes. Thus, the instructor may choose to set aside class time for students to discuss and complete these final steps of the lesson, or create breakout rooms/virtual meeting links for group members to meet and work on annotations. If none of those options are available, students may also generate annotations independently in Google Sheets, then review other students’ annotations, comment about observations they had, and return to their own annotations and adapt them as necessary."
+          "text": "Please review the following:",
+          "bold": true
         }
       ]
     },
@@ -24,7 +24,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "1. As a group, relisten to the clip and consider the following questions."
+          "text": "What is happening around this time? ",
+          "bold": true
         }
       ]
     },
@@ -38,7 +39,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Who do you think is speaking? Why might it be difficult to tell?"
+                  "text": "October 1, 1962: James Meredith became the first Black student to attend the University of Mississippi in 1962, desegregating the university and setting off a series of violent riots in protest."
                 }
               ]
             }
@@ -51,7 +52,19 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "What can you tell about the setting?"
+                  "text": "1964: "
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.crmvet.org/info/mccomb1964.pdf",
+                  "children": [
+                    {
+                      "text": "List of Civil Rights Incidents in McComb, Mississippi"
+                    }
+                  ]
+                },
+                {
+                  "text": ", including bombings of Black homes and businesses."
                 }
               ]
             }
@@ -64,7 +77,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "How would you describe what is happening here?"
+                  "text": "October 19, 1964: This audio was recorded after a series of protests led to the arrest of a group of black high school students and members of the Council of Federated Organizations (who we hear in the recording after their release)."
                 }
               ]
             }
@@ -77,7 +90,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "What is confusing or unclear?"
+                  "text": "July 2, 1964: The Civil Rights Act of 1964 was signed."
                 }
               ]
             }
@@ -90,7 +103,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "What seems significant in this clip? What do you notice?"
+                  "text": "August 6, 1965: The Voting Rights Act of 1965 went into effect."
                 }
               ]
             }
@@ -102,7 +115,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "2. Decide on categories for annotation and begin generating annotations."
+          "text": "What is criminal syndicalism?",
+          "bold": true
         }
       ]
     },
@@ -110,27 +124,203 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Use "
+          "text": ""
         },
         {
-          "text": "this template",
-          "link": "https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true"
+          "type": "link",
+          "url": "https://www.crmvet.org/docs/ms_laws64-c.pdf",
+          "children": [
+            {
+              "text": "Passed in 1964, "
+            }
+          ]
         },
         {
-          "text": " to create annotations collaboratively with your group members. Aim to create at least 5 annotations, with at least 1 transcription and 1 descriptive annotation (the rest of the annotation types are up to the group)."
+          "text": "“Senate Bill 2027 prohibits ‘criminal syndicalism,’ defined as doctrine or precept which advocates, teaches or aids and abets the commission of crime…violence and force…as a means of accomplishing or affecting a change in agricultural or industrial ownership or control. or in affecting any political or social change or for profit. Any person who \"advocates, instigates, suggests, teaches, etc.  ‘criminal syndicalism’ or '’’attempts to justify it’ is guilty of a felony.” "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Who is John Beecher?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "John Beecher was a descendant of the author Harriet Beecher Stowe and was a poet, civil rights activist, and journalist. He speaks in our second lesson clip."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What is the COFO? ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Council of Federated Organizations (COFO) was first formed in 1961 to support jailed Freedom Riders. In 1962, it reorganized to an umbrella organization to avoid inter-organizational conflict and facilitate funds and encourage grassroots activism towards voter education and registration in Mississippi. In the 1960s, COFO field workers (the majority of whom were college-age Mississippians) organized many voter registration projects–as our Beecher recording captures. For more information, see the "
+        },
+        {
+          "type": "link",
+          "url": "https://snccdigital.org/inside-sncc/alliances-relationships/cofo/",
+          "children": [
+            {
+              "text": "Student Nonviolent Coordinating Committee’s Page on the COFO"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "With this context, re-listen to both clips. Respond in writing to the following:"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What questions were answered?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What else did you notice?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What do you want to know more about now?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "includes": [
+                "media"
+              ],
+              "event1": {
+                "uuid": "68a1d1ef-129a-4b8f-8d46-3ae32bf555da",
+                "start": 11,
+                "end": 255,
+                "file": "e08a931d-b954-4041-a7d0-4fe058e10f9e",
+                "type": "Audio"
+              },
+              "event2": {
+                "uuid": "7a4e4b51-345d-4a50-ae75-fd2f5dcca34a",
+                "start": 845,
+                "end": 937,
+                "file": "5cd674f4-e39b-49cf-8363-13d4f6463152",
+                "type": "Audio"
+              },
+              "type": "event-comparison",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }
   ],
-  "title": "3. Further Analysis & Annotation in Groups",
+  "title": "3. Historical Context & Second Listen (15 min)",
   "parent": "7a40aa7c-26e3-41b0-948c-a06936c109a0",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "3-further-analysis-and-annotation-in-groups",
+  "slug": "3-historical-context-and-second-listen-15-min",
   "created_at": "2025-08-19T03:03:46.188Z",
   "created_by": "kywark",
-  "updated_at": "2025-08-23T01:38:42.051Z",
+  "updated_at": "2025-11-04T06:29:27.576Z",
   "updated_by": "kywark"
 }
