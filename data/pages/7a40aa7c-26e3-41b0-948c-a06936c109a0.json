@@ -4,7 +4,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This project can be used as an asynchronous lesson for students to go through the annotation process themselves. To do so, please give your students viewing access to this project. They will navigate through each step of the lesson using the nested tabs."
+          "text": "This project can be used as an asynchronous lesson for students to go through the annotation process themselves. To do so, please give your students viewing access to this project. They will navigate through each step of the lesson using the nested tabs. "
+        },
+        {
+          "text": "Before you share this project with your students, it's imperative that you read over the Audio Content Warning with the students.",
+          "bold": true
         }
       ]
     },
@@ -41,6 +45,6 @@
   "slug": "asynchronous-lesson-for-students",
   "created_at": "2025-08-19T02:59:26.716Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-04T04:09:52.095Z",
+  "updated_at": "2025-11-04T04:13:39.507Z",
   "updated_by": "kywark"
 }
