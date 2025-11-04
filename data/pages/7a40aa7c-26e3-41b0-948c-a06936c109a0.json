@@ -4,19 +4,43 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "This project can be used as an asynchronous lesson for students to go through the annotation process themselves. To do so, please give your students viewing access to this project. They will navigate through each step of the lesson using the nested tabs."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Students, please be sure to refer to any other directions your instructor may have provided. Then, proceed through the lesson using the nested tabs!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
     }
   ],
-  "title": "Lesson (for Students)",
+  "title": "Asynchronous Lesson (for Students)",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "lesson-for-students",
+  "slug": "asynchronous-lesson-for-students",
   "created_at": "2025-08-19T02:59:26.716Z",
   "created_by": "kywark",
-  "updated_at": "2025-08-19T02:59:26.716Z",
+  "updated_at": "2025-11-04T04:09:52.095Z",
   "updated_by": "kywark"
 }
