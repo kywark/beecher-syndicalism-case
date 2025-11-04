@@ -288,7 +288,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Internet-connected computer to present AVAnnotate project and play the Beecher audio using the AVAnnotate project. If students are uploading their own annotations to AVAnnotate, they'll need at least one computer per group of 2-4 students."
+                  "text": "Enough internet-connected computers to present AVAnnotate project to play the Beecher audio using the AVAnnotate project and for each group of 2-4 students to listen to their assigned lesson clip. If this is not possible for your students, this lesson is also possible using just one computer, though you'll need to play each lesson clip for the class and have them annotate their assigned clip altogether."
                 }
               ]
             }
@@ -334,7 +334,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "In this synchronous, in-person version of the lesson, it is assumed that you’ll be working in a classroom with at least one laptop that is connected to the internet. This lesson will take 90 min to complete, though it can be split across multiple days."
+          "text": "This is a  synchronous, in-person version of the lesson. "
+        },
+        {
+          "text": "It  will take 90 min to complete, though it can be split across multiple days.",
+          "bold": true
         }
       ]
     },
@@ -684,7 +688,7 @@
                   ]
                 },
                 {
-                  "text": "“Senate Bill 2027 prohibits ‘criminal syndicalism,’ defined as doctrine or precept which advocates, teaches or aids and abets the commission of crime…violence and force…as a means of accomplishing or affecting a change in agricultural or industrial ownership or control. or in affecting any political or social change or for profit. Any person who \"advocates, instigates, suggests, teaches, etc.  ‘criminal syndicalism’ or '’’attempts to justify it’ is guilty of a felony.” "
+                  "text": "“Senate Bill 2027 prohibits ‘criminal syndicalism,’ defined as doctrine or precept which advocates, teaches or aids and abets the commission of crime…violence and force…as a means of accomplishing or affecting a change in agricultural or industrial ownership or control. or in affecting any political or social change or for profit. Any person who \"advocates, instigates, suggests, teaches, etc.  ‘criminal syndicalism’ or 'attempts to justify it’ is guilty of a felony.” "
                 }
               ]
             },
@@ -1059,7 +1063,7 @@
   "slug": "synchronous-lesson-in-person",
   "created_at": "2025-11-04T04:28:25.983Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-04T05:48:59.883Z",
+  "updated_at": "2025-11-04T05:55:52.923Z",
   "updated_by": "kywark",
   "parent": "b6ceebd1-1047-41a6-a463-ed8e03440c3e"
 }
