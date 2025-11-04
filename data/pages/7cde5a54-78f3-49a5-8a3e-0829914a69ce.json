@@ -23,7 +23,7 @@
           "text": "In this asynchronous, online version of the lesson, it is assumed that students will be working independently through modules on their own time. This lesson will take "
         },
         {
-          "text": "approximately 90 minutes to complete",
+          "text": "approximately 80 minutes to complete",
           "bold": true
         },
         {
@@ -112,7 +112,8 @@
       "children": [
         {
           "text": "Targeted Lesson Guidelines",
-          "textSize": "heading-four"
+          "textSize": "heading-four",
+          "bold": true
         }
       ]
     },
@@ -202,7 +203,8 @@
       "children": [
         {
           "text": "Essential Questions",
-          "textSize": "heading-four"
+          "textSize": "heading-four",
+          "bold": true
         }
       ]
     },
@@ -255,7 +257,8 @@
       "children": [
         {
           "text": "Objective",
-          "textSize": "heading-four"
+          "textSize": "heading-four",
+          "bold": true
         }
       ]
     },
@@ -294,6 +297,14 @@
                   "text": "Create and present annotations by using the AVAnnotate application to demonstrate how annotation enhances both personal meaning-making and accessibility of archival audio for diverse audiences."
                 }
               ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -304,7 +315,8 @@
       "children": [
         {
           "text": "Materials",
-          "textSize": "heading-four"
+          "textSize": "heading-four",
+          "bold": true
         }
       ]
     },
@@ -369,7 +381,8 @@
       "children": [
         {
           "text": "Lesson Procedure:",
-          "textSize": "heading-three"
+          "textSize": "heading-three",
+          "bold": true
         }
       ]
     },
@@ -462,7 +475,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Module 2: First Listen (3 min)",
+          "text": "Module 2: First Listen (15 min)",
           "bold": true
         }
       ]
@@ -471,15 +484,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following information will be provided to students with the following information to read before proceeding:"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": "The following information will be provided to students with the following information to read before proceeding. Please be sure you give them a method they should respond to the writing prompts (digital submission, on paper, voice memo, etc.):"
         }
       ]
     },
@@ -652,7 +657,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following information has been provided for students to read in order to better understand the social/historical context of the time period:"
+          "text": "The following information has been provided for students to read in order to better understand the social/historical context of the time period. Students will read the social/historical context and then relisten to the audio."
         }
       ]
     },
@@ -859,7 +864,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "With this context, students will listen to the recording again and respond in your preferred method to the following:"
+          "text": "Following this context, students will listen to the recording again and respond in your preferred method to the following:"
         }
       ]
     },
@@ -971,6 +976,14 @@
         },
         {
           "text": " For each annotation, you'll need at least: a start time in min:sec and an annotation. It is up to you what that annotation looks like or if you'd like to sort your annotations into groups. Use your reflections from the previous modules to help you brainstorm potential annotations or annotation groups. Feel free to relisten to your clip as many times as you’d like."
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -1112,7 +1125,7 @@
   "slug": "asynchronous-lesson-plan",
   "created_at": "2025-11-04T04:27:31.744Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-04T06:38:58.060Z",
+  "updated_at": "2025-11-04T14:34:43.807Z",
   "updated_by": "kywark",
   "parent": "b6ceebd1-1047-41a6-a463-ed8e03440c3e"
 }
