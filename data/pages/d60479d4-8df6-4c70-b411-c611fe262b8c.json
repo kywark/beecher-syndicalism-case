@@ -53,19 +53,7 @@
           ]
         },
         {
-          "text": " for helpful resources. Though AVAnnotate hosts no information, please be sure to check your school’s acceptable use policies regarding web-based applications (here, AVAnnotate and GitHub, which AVAnnotate uses to present the annotations). We have also included a potential extension activity using "
-        },
-        {
-          "type": "link",
-          "url": "https://web.hypothes.is/",
-          "children": [
-            {
-              "text": "Hypothesis"
-            }
-          ]
-        },
-        {
-          "text": " to workshop and comment on student annotations (see “Extension Activity: Commenting Using Hypothesis”)."
+          "text": " for helpful resources. Though AVAnnotate hosts no information, please be sure to check your school’s acceptable use policies regarding web-based applications (here, AVAnnotate and GitHub, which AVAnnotate uses to present the annotations)."
         }
       ]
     },
@@ -1117,7 +1105,7 @@
   "slug": "synchronous-lesson-in-person",
   "created_at": "2025-11-04T04:28:25.983Z",
   "created_by": "kywark",
-  "updated_at": "2025-11-04T15:09:21.203Z",
+  "updated_at": "2025-11-10T00:27:34.117Z",
   "updated_by": "kywark",
   "parent": "b6ceebd1-1047-41a6-a463-ed8e03440c3e"
 }
